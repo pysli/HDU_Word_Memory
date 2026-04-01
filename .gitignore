@@ -1,0 +1,7 @@
+*
+!.gitignore
+!build_question_bank.py
+!create_selftest.py
+!word.py
+!data.json
+!README.md
