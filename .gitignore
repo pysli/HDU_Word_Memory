@@ -1,6 +1,7 @@
 *
 !.gitignore
 !build_question_bank.py
+!build_question_bank(old).py
 !create_selftest.py
 !word.py
 !data.json

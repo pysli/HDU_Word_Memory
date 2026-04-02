@@ -1,4 +1,5 @@
 import time
+import random
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.edge.options import Options
@@ -40,7 +41,7 @@ print(f'请务必关闭自动下一题！！！！！')
 print(f'请务必关闭自动下一题！！！！！')
 
 if answer_count < 1000:
-	print(f'insufficient answer')
+	print(f'insufficient data')
 	exit()
 
 
@@ -48,18 +49,31 @@ print(f'start test?')
 is_start = input()
 nohit = 0
 if is_start:
+	start = time.time()
 	for i in range(100):
-		question = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[1]/div[2]'))
-		optionA = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[1]/div[2]'))
-		optionB = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/div[2]'))
-		optionC = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[3]/div[2]'))
-		optionD = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[4]/div[2]'))
+		question = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[1]/div[2]'))
+		optionA = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[1]/div[2]'))
+		optionB = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/div[2]'))
+		optionC = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[3]/div[2]'))
+		optionD = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[4]/div[2]'))
 		q_text = question.text.rstrip(" .")
 		a_text = optionA.text.rstrip(" .")
 		b_text = optionB.text.rstrip(" .")
 		c_text = optionC.text.rstrip(" .")
 		d_text = optionD.text.rstrip(" .")
 		print(f'---{i}\n{q_text}\nA.{a_text}\nB.{b_text}\nC.{c_text}\nD.{d_text}')
+		if i < 10:
+			rand = random.randint(0, 3)
+			if rand == 0:
+				optionA.click()
+			if rand == 1:
+				optionB.click()
+			if rand == 2:
+				optionC.click()
+			if rand == 3:
+				optionD.click()
+			wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/i').click()
+			continue
 		if a_text in data.get(q_text, set()):
 			optionA.click()
 		elif b_text in data.get(q_text, set()):
@@ -77,8 +91,10 @@ if is_start:
 			wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/i').click()
 		
 		result = None
-		time.sleep(1)
+		time.sleep(0.1)
 
+	end = time.time()
+	time.sleep(480 - (end - start) - 80)
 	wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[1]/div[2]/div[3]/span').click()
 	time.sleep(0.1)
 	wd.find_element(By.XPATH, '/html/body/div[4]/div[3]/button[2]').click()
