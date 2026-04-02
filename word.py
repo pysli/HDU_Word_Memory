@@ -49,30 +49,40 @@ print(f'start test?')
 is_start = input()
 nohit = 0
 if is_start:
+	# 关闭自动下一题, 获取剩余时间
+	auto_next = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[2]/div[1]/div[2]/div/div'))
+	auto_attr = auto_next.get_attribute("class")
+	if "van-switch--on" in auto_attr.split():
+		WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[2]/div[1]/div[2]/div/span')).click()
+	time_remain_str = WebDriverWait(wd, 15, 0.5).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[1]/div[3]/div[1]/div')).text
+	minutes, seconds = map(int, time_remain_str.split(':'))
+	time_remain = minutes * 60 + seconds
 	start = time.time()
 	for i in range(100):
-		question = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[1]/div[2]'))
-		optionA = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[1]/div[2]'))
-		optionB = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/div[2]'))
-		optionC = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[3]/div[2]'))
-		optionD = WebDriverWait(wd, 15, 0.01).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[4]/div[2]'))
+		question = WebDriverWait(wd, 15, 0.1).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[1]/div[2]'))
+		optionA = WebDriverWait(wd, 15, 0.1).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[1]/div[2]'))
+		optionB = WebDriverWait(wd, 15, 0.1).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[2]/div[2]'))
+		optionC = WebDriverWait(wd, 15, 0.1).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[3]/div[2]'))
+		optionD = WebDriverWait(wd, 15, 0.1).until(lambda wd:wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[1]/div[2]/div[4]/div[2]'))
 		q_text = question.text.rstrip(" .")
 		a_text = optionA.text.rstrip(" .")
 		b_text = optionB.text.rstrip(" .")
 		c_text = optionC.text.rstrip(" .")
 		d_text = optionD.text.rstrip(" .")
-		print(f'---{i}\n{q_text}\nA.{a_text}\nB.{b_text}\nC.{c_text}\nD.{d_text}')
-		if i < 10:
+		print(f'---{i + 1}\n{q_text}\nA.{a_text}\nB.{b_text}\nC.{c_text}\nD.{d_text}')
+		if i > 87 and i <99 and nohit < 10:
 			rand = random.randint(0, 3)
 			if rand == 0:
 				optionA.click()
-			if rand == 1:
+			elif rand == 1:
 				optionB.click()
-			if rand == 2:
+			elif rand == 2:
 				optionC.click()
-			if rand == 3:
+			elif rand == 3:
 				optionD.click()
 			wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[2]/div[2]/div[1]/div[3]/i').click()
+			time.sleep(0.2)
+			# 随机选择避免正确率过高
 			continue
 		if a_text in data.get(q_text, set()):
 			optionA.click()
@@ -94,7 +104,9 @@ if is_start:
 		time.sleep(0.1)
 
 	end = time.time()
-	time.sleep(480 - (end - start) - 80)
+	# 等待至时间还剩一分钟
+	if (time_remain - (end - start) - 60) > 0:
+		time.sleep(time_remain - (end - start) - 60)
 	wd.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div[1]/div[2]/div[3]/span').click()
 	time.sleep(0.1)
 	wd.find_element(By.XPATH, '/html/body/div[4]/div[3]/button[2]').click()
