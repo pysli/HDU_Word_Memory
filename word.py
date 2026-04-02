@@ -36,9 +36,6 @@ time.sleep(2.5)
 
 answer_count = len(data)
 print(f'answer count: {answer_count}')
-print(f'请务必关闭自动下一题！！！！！')
-print(f'请务必关闭自动下一题！！！！！')
-print(f'请务必关闭自动下一题！！！！！')
 
 if answer_count < 1000:
 	print(f'insufficient data')
