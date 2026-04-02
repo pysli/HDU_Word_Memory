@@ -1,8 +1,8 @@
 *
 !.gitignore
-!build_question_bank.py
-!build_question_bank(old).py
-!create_selftest.py
+!build_answer_bank.py
+!build_answer_bank(old).py
+!create_selfexam.py
 !word.py
-!data.json
+!answer_bank.json
 !README.md

@@ -9,7 +9,7 @@ import json
 from collections import defaultdict
 
 try:
-	with open("data.json", "r", encoding="utf-8") as f:
+	with open("answer_bank.json", "r", encoding="utf-8") as f:
 		loaded_dict = json.load(f)
 		data = defaultdict(set)
 		for key, value_list in loaded_dict.items():
@@ -69,5 +69,5 @@ key_count = len(data)
 print(f'key count: {key_count}')
 if is_c:
 	serializable = {key: list(value) for key, value in data.items()}
-	with open("data.json", "w", encoding="utf-8") as f:
+	with open("answer_bank.json", "w", encoding="utf-8") as f:
 		json.dump(serializable, f, ensure_ascii=False, indent=4)

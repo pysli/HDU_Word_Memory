@@ -10,7 +10,7 @@ import json
 from collections import defaultdict
 
 try:
-	with open("data.json", "r", encoding="utf-8") as f:
+	with open("answer_bank.json", "r", encoding="utf-8") as f:
 		loaded_dict = json.load(f)
 		data = defaultdict(set)
 		for key, value_list in loaded_dict.items():
