@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-**修改token**: 修改文件开头的token, token通过打开https://skl.hdu.edu.cn/, 通过浏览器开发工具(按下F12), 选择网络选项, 从中找到request headers中有X-Auth-Token的请求, 复制X-Auth-Token作为token
+**修改token**: 修改文件开头的token, token通过打开https://skl.hdu.edu.cn/, 通过浏览器开发工具(按下F12), application/local storage/https://skl.hdu.edu.cn/sessionId获取
 
 **运行脚本**：
    在命令行中进入脚本所在目录，运行以下命令：
