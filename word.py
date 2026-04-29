@@ -2,8 +2,9 @@ import time
 from collections import defaultdict
 import requests
 import json
+import random
 
-token = "请输入你的token"
+token = "6f6aad78-0b29-4821-9f0c-2a23768be08f"
 
 headers = {
 	"Accept": "application/json, text/plain, */*",
@@ -49,10 +50,10 @@ def create_newtest(type):
 		return resp.json()
 	else:
 		print(f"获取失败: {resp.status_code}")
-		print(json.dumps(resp.json(), indent = 4, ensure_ascii = False))
+		print(json.dumps(resp.json(), indent=4, ensure_ascii=False))
 		return []
 
-def build_submit_payload(data):
+def build_submit_payload(data, score_inf):
 	global nohit
 	payload = {
 		"paperId": data["paperId"],
@@ -70,10 +71,10 @@ def build_submit_payload(data):
 				chosen = oplettter
 				break
 		if chosen == None:
-			chosen = "A"
+			chosen = random.choice('ABCD')
 			nohit += 1
-		if control_score == 1 and count - nohit >= 87:
-			chosen = "A"
+		if control_score == 1 and count - nohit >= score_inf:
+			chosen = random.choice('ABCD')
 		payload["list"].append({
 			"input": chosen,
 			"paperDetailId": item["paperDetailId"]
@@ -82,20 +83,20 @@ def build_submit_payload(data):
 
 def respond(stdata):
 	url = "https://skl.hdu.edu.cn/api/paper/save"
-	resp = requests.post(url,  headers = headers, json = stdata)
+	resp = requests.post(url,  headers=headers, json=stdata)
 	if resp.status_code == 200:
 		print("success exam")
 	else:
 		print(f"failed: {resp.status_code}")
 
-def single_exam(sleeptime,type):
+def single_exam(sleeptime, type, score_inf):
 	global nohit
 	nohit = 0
 	paper = create_newtest(type)
 	if not paper:
 		print("create failed")
 		return
-	stdata = build_submit_payload(paper)
+	stdata = build_submit_payload(paper, score_inf)
 	if not stdata:
 		print("failed in transform")
 		return
@@ -103,6 +104,7 @@ def single_exam(sleeptime,type):
 	time.sleep(sleeptime)
 	respond(stdata)
 	paper_id = paper["paperId"]
+	time.sleep(1)
 	paper_resp = requests.get(f"https://skl.hdu.edu.cn/api/paper/detail?paperId={paper_id}", headers=headers)
 	if paper_resp.status_code == 200:
 		score = paper_resp.json()["mark"]
@@ -160,14 +162,17 @@ def build_answer_bank():
 
 def create_many_exam(count):
 	for i in range(count):
-		single_exam(0, 0)
 		if i == count - 1:
+			single_exam(0, 0, 0)
 			return
-		time.sleep(300)
+		else:
+			single_exam(300, 0, 0)
 		print(f'{i + 1}/{count}')
 
-def got_input(inf, sup):
-	s = input()
+def got_input(inf, sup, default=None):
+	s = input().strip()
+	if s == "":
+		return default
 	if s.isdigit():
 		num = int(s)
 	else:
@@ -180,25 +185,33 @@ def got_input(inf, sup):
 		return -1
 
 def single_cycle():
-	print("请选择你需要的功能\n1. 自测测试\n2. 考试\n3. 创建用于构建题库的自测\n4. 构建词库\n5. quit")
-	num = got_input(1, 5)
+	print("请选择你需要的功能\n1. 自测测试\n2. 考试\n3. 创建用于构建题库的自测\n4. 构建词库\n5. quit\n或直接按回车退出")
+	num = got_input(1, 5, default=5)
 	if num == -1:
 		return 
 	if num == 1:
-		print("输入你想要的答题时间(range:[0, 480])")
-		sleep_time = got_input(0, 480)
+		print("输入你想要的答题时间(range:[0, 480], defalut value: 300)")
+		sleep_time = got_input(0, 480, default=300)
 		if sleep_time == -1:
 			return
-		single_exam(sleep_time, 0)
+		print("请输入想要的分数下界(range[0, 100], default value: 75)")
+		score_inf = got_input(0, 100, default=75)
+		if score_inf == -1:
+			return
+		single_exam(sleep_time, 0, score_inf)
 	elif num == 2:
-		print("输入你想要的答题时间(range:[240, 400])")
-		sleep_time = got_input(240, 400)
+		print("输入你想要的答题时间(range:[360, 480], defalut value: 400)")
+		sleep_time = got_input(360, 480, default=400)
 		if sleep_time == -1:
 			return
-		single_exam(sleep_time, 1)
+		print("请输入想要的分数下界(range[0, 100], default value: 75)")
+		score_inf = got_input(0, 100, default=75)
+		if score_inf == -1:
+			return
+		single_exam(sleep_time, 1, score_inf)
 	elif num == 3:
-		print("输入你想要的创建次数(range:[0, 300])")
-		count = got_input(0, 300)
+		print("输入你想要的创建次数(range:[0, 300], default value: 1)")
+		count = got_input(0, 300, default=1)
 		create_many_exam(count)
 	elif num == 4:
 		build_answer_bank()
