@@ -4,7 +4,7 @@ import requests
 import json
 import random
 
-token = "6f6aad78-0b29-4821-9f0c-2a23768be08f"
+token = "your token"
 
 headers = {
 	"Accept": "application/json, text/plain, */*",
