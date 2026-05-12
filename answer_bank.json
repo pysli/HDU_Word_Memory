@@ -41,8 +41,8 @@
         "royal"
     ],
     "square": [
-        "公正的",
-        "广场"
+        "广场",
+        "公正的"
     ],
     "破坏性的": [
         "destructive"
@@ -51,9 +51,9 @@
         "secure"
     ],
     "whistle": [
-        "口哨",
+        "汽笛",
         "吹口哨",
-        "汽笛"
+        "口哨"
     ],
     "（因为剪切而）断裂": [
         "shear"
@@ -62,8 +62,8 @@
         "consecutive"
     ],
     "极度的": [
-        "extreme",
-        "utmost"
+        "utmost",
+        "extreme"
     ],
     "assignment": [
         "任务"
@@ -81,8 +81,8 @@
         "colonial"
     ],
     "tidy": [
-        "整洁的",
-        "整理"
+        "整理",
+        "整洁的"
     ],
     "瞄准": [
         "direct"
@@ -94,9 +94,9 @@
         "dazzle"
     ],
     "rank": [
-        "难闻的",
+        "排名",
         "级别",
-        "排名"
+        "难闻的"
     ],
     "履行": [
         "fulfill"
@@ -114,8 +114,8 @@
         "commonplace"
     ],
     "记者": [
-        "reporter",
-        "journalist"
+        "journalist",
+        "reporter"
     ],
     "rare": [
         "稀罕的"
@@ -166,8 +166,8 @@
         "恐怖"
     ],
     "海湾": [
-        "gulf",
-        "bay"
+        "bay",
+        "gulf"
     ],
     "见解，看法": [
         "view"
@@ -185,8 +185,8 @@
         "铁道"
     ],
     "安静的": [
-        "quiet",
-        "silent"
+        "silent",
+        "quiet"
     ],
     "ghost": [
         "鬼魂"
@@ -204,8 +204,8 @@
         "纪念的"
     ],
     "multiply": [
-        "大量增加",
-        "增加"
+        "增加",
+        "大量增加"
     ],
     "生锈": [
         "rust"
@@ -252,8 +252,8 @@
         "deem"
     ],
     "single": [
-        "单一的",
-        "单身"
+        "单身",
+        "单一的"
     ],
     "骚扰": [
         "disturbance"
@@ -272,8 +272,8 @@
         "dig"
     ],
     "引用": [
-        "cite",
-        "quote"
+        "quote",
+        "cite"
     ],
     "spirit": [
         "心灵"
@@ -282,8 +282,8 @@
         "durable"
     ],
     "偶然的": [
-        "occasional",
-        "casual"
+        "casual",
+        "occasional"
     ],
     "足尖": [
         "toe"
@@ -304,8 +304,8 @@
         "cushion"
     ],
     "meadow": [
-        "牧草地",
-        "牧场"
+        "牧场",
+        "牧草地"
     ],
     "设想": [
         "conceive"
@@ -372,20 +372,20 @@
         "depression"
     ],
     "needle": [
-        "缝制",
+        "针",
         "刺激",
-        "针"
+        "缝制"
     ],
     "pit": [
-        "凹陷",
-        "地坑"
+        "地坑",
+        "凹陷"
     ],
     "excite": [
         "刺激"
     ],
     "nerve": [
-        "神经",
-        "勇气"
+        "勇气",
+        "神经"
     ],
     "有竞争力的": [
         "competitive"
@@ -478,8 +478,8 @@
         "capture"
     ],
     "严格的": [
-        "strict",
-        "rigid"
+        "rigid",
+        "strict"
     ],
     "德国(人)的": [
         "German"
@@ -495,8 +495,8 @@
     ],
     "居住": [
         "dwell",
-        "residence",
-        "live"
+        "live",
+        "residence"
     ],
     "寺院": [
         "temple"
@@ -540,8 +540,8 @@
         "嘲笑"
     ],
     "prize": [
-        "重视",
-        "奖赏"
+        "奖赏",
+        "重视"
     ],
     "weed": [
         "杂草"
@@ -550,9 +550,9 @@
         "coward"
     ],
     "古怪的": [
-        "queer",
+        "odd",
         "eccentric",
-        "odd"
+        "queer"
     ],
     "upright": [
         "正直的",
@@ -626,8 +626,8 @@
         "统计的"
     ],
     "trail": [
-        "跟踪",
-        "痕迹"
+        "痕迹",
+        "跟踪"
     ],
     "遭遇": [
         "encounter"
@@ -645,6 +645,7 @@
         "romantic"
     ],
     "sparkle": [
+        "发火花",
         "闪耀"
     ],
     "可是": [
@@ -664,8 +665,8 @@
         "铁"
     ],
     "sign": [
-        "手势",
-        "迹象"
+        "迹象",
+        "手势"
     ],
     "battery": [
         "电池"
@@ -728,16 +729,16 @@
         "swift"
     ],
     "责备": [
-        "blame",
-        "reproach"
+        "reproach",
+        "blame"
     ],
     "attack": [
         "攻击"
     ],
     "round": [
-        "环装的",
         "围绕",
-        "圆形的"
+        "圆形的",
+        "环装的"
     ],
     "反驳，驳斥": [
         "contradict"
@@ -749,8 +750,8 @@
         "至上的"
     ],
     "organic": [
-        "有机体的",
-        "器官的"
+        "器官的",
+        "有机体的"
     ],
     "impose": [
         "强加"
@@ -759,15 +760,15 @@
         "布丁"
     ],
     "stroke": [
-        "中风",
-        "击打"
+        "击打",
+        "中风"
     ],
     "饮食": [
         "diet"
     ],
     "课程": [
-        "course",
-        "curriculum"
+        "curriculum",
+        "course"
     ],
     "遵照": [
         "comply"
@@ -779,8 +780,8 @@
         "expression"
     ],
     "运转": [
-        "run",
-        "operate"
+        "operate",
+        "run"
     ],
     "诊所": [
         "clinic"
@@ -831,9 +832,9 @@
         "brush"
     ],
     "减少": [
-        "reduce",
-        "lessen",
         "decrease",
+        "lessen",
+        "reduce",
         "diminish"
     ],
     "有争论的": [
@@ -849,8 +850,9 @@
         "邮递员"
     ],
     "停止": [
+        "cease",
         "halt",
-        "cease"
+        "terminate"
     ],
     "suggest": [
         "暗示"
@@ -862,10 +864,10 @@
         "nature"
     ],
     "种类": [
+        "category",
         "sort",
-        "kind",
         "type",
-        "category"
+        "kind"
     ],
     "发疯的": [
         "mad"
@@ -914,18 +916,18 @@
         "实际上"
     ],
     "诅咒": [
-        "curse",
-        "damn"
+        "damn",
+        "curse"
     ],
     "一点儿也不": [
         "none"
     ],
     "巨大的": [
-        "gigantic",
         "enormous",
-        "large",
         "immense",
-        "huge"
+        "large",
+        "huge",
+        "gigantic"
     ],
     "opinion": [
         "主张"
@@ -959,8 +961,8 @@
         "overall"
     ],
     "热情的": [
-        "enthusiastic",
-        "zealous"
+        "zealous",
+        "enthusiastic"
     ],
     "affect": [
         "影响"
@@ -984,9 +986,9 @@
         "half"
     ],
     "present": [
-        "赠送",
         "呈现",
-        "礼物"
+        "礼物",
+        "赠送"
     ],
     "appeal": [
         "呼吁"
@@ -999,9 +1001,9 @@
         "dreadful"
     ],
     "妨碍": [
-        "interference",
         "hamper",
-        "prohibit"
+        "prohibit",
+        "interference"
     ],
     "熟练的": [
         "skilled"
@@ -1025,10 +1027,10 @@
         "waken"
     ],
     "主要的": [
-        "chief",
-        "main",
         "primary",
-        "principal"
+        "principal",
+        "chief",
+        "main"
     ],
     "服装": [
         "costume"
@@ -1050,10 +1052,10 @@
         "nose"
     ],
     "尝试": [
+        "endeavor",
         "try",
         "trial",
-        "attempt",
-        "endeavor"
+        "attempt"
     ],
     "farm": [
         "农场"
@@ -1090,8 +1092,8 @@
         "complication"
     ],
     "potential": [
-        "潜在的",
-        "潜能"
+        "潜能",
+        "潜在的"
     ],
     "lace": [
         "饰带"
@@ -1132,8 +1134,8 @@
         "跳"
     ],
     "plant": [
-        "工厂",
-        "种植"
+        "种植",
+        "工厂"
     ],
     "混乱": [
         "confusion"
@@ -1296,9 +1298,9 @@
         "提供"
     ],
     "tough": [
-        "坚韧的",
+        "恶棍",
         "艰苦的",
-        "恶棍"
+        "坚韧的"
     ],
     "whichever": [
         "无论哪个"
@@ -1322,8 +1324,8 @@
         "挑选"
     ],
     "shade": [
-        "荫凉处",
-        "遮蔽"
+        "遮蔽",
+        "荫凉处"
     ],
     "盎司": [
         "ounce"
@@ -1344,22 +1346,22 @@
         "胶水"
     ],
     "tender": [
-        "温柔的",
+        "投标",
         "脆弱的",
-        "投标"
+        "温柔的"
     ],
     "渴望": [
-        "thirst",
         "hunger",
+        "desire",
         "long",
-        "desire"
+        "thirst"
     ],
     "gun": [
         "枪"
     ],
     "swallow": [
-        "燕子",
-        "吞咽"
+        "吞咽",
+        "燕子"
     ],
     "尊严": [
         "dignity"
@@ -1375,8 +1377,8 @@
         "醒来"
     ],
     "着手": [
-        "embark",
-        "proceed"
+        "proceed",
+        "embark"
     ],
     "表演": [
         "act"
@@ -1461,10 +1463,10 @@
         "depraved"
     ],
     "缺点": [
+        "defect",
         "drawback",
         "disadvantage",
-        "fault",
-        "defect"
+        "fault"
     ],
     "材料": [
         "stuff"
@@ -1509,8 +1511,8 @@
         "phrase"
     ],
     "sober": [
-        "清醒的",
-        "清醒"
+        "清醒",
+        "清醒的"
     ],
     "beginner": [
         "生手"
@@ -1543,8 +1545,8 @@
         "厨房"
     ],
     "release": [
-        "释放",
-        "发表"
+        "发表",
+        "释放"
     ],
     "trap": [
         "诱骗",
@@ -1557,13 +1559,13 @@
         "引诱"
     ],
     "旋转": [
-        "whirl",
-        "rotate"
+        "rotate",
+        "whirl"
     ],
     "能力": [
-        "capacity",
+        "competence",
         "ability",
-        "competence"
+        "capacity"
     ],
     "unless": [
         "除非"
@@ -1575,9 +1577,9 @@
         "group"
     ],
     "project": [
-        "投射",
         "方案",
-        "工程"
+        "工程",
+        "投射"
     ],
     "注册": [
         "register"
@@ -1596,8 +1598,8 @@
         "信奉"
     ],
     "sympathy": [
-        "同情心",
-        "赞同"
+        "赞同",
+        "同情心"
     ],
     "长沙发椅": [
         "couch"
@@ -1630,15 +1632,15 @@
         "youth"
     ],
     "阴暗的": [
-        "gloomy",
-        "shady"
+        "shady",
+        "gloomy"
     ],
     "深思熟虑的": [
         "deliberate"
     ],
     "mere": [
-        "浅湖",
-        "仅仅的"
+        "仅仅的",
+        "浅湖"
     ],
     "entrance": [
         "入口"
@@ -1650,8 +1652,8 @@
         "乐器"
     ],
     "比率": [
-        "proportion",
-        "rate"
+        "rate",
+        "proportion"
     ],
     "注定的": [
         "destined"
@@ -1672,8 +1674,8 @@
         "developer"
     ],
     "出租": [
-        "let",
-        "rent"
+        "rent",
+        "let"
     ],
     "表面的": [
         "superficial"
@@ -1683,8 +1685,8 @@
         "excuse"
     ],
     "合作": [
-        "cooperate",
-        "collaboration"
+        "collaboration",
+        "cooperate"
     ],
     "儿童": [
         "kid"
@@ -1693,8 +1695,8 @@
         "unconscious"
     ],
     "真挚的": [
-        "earnest",
-        "sincere"
+        "sincere",
+        "earnest"
     ],
     "剔除": [
         "pick"
@@ -1746,9 +1748,9 @@
         "stool"
     ],
     "shed": [
-        "脱落",
+        "棚",
         "除掉",
-        "棚"
+        "脱落"
     ],
     "funny": [
         "滑稽的"
@@ -1790,9 +1792,9 @@
         "soil"
     ],
     "puff": [
+        "膨胀",
         "一阵喷烟",
-        "泡芙",
-        "膨胀"
+        "泡芙"
     ],
     "承担": [
         "undertake"
@@ -1884,8 +1886,8 @@
         "发现"
     ],
     "木材": [
-        "lumber",
-        "timber"
+        "timber",
+        "lumber"
     ],
     "sudden": [
         "意外的"
@@ -1916,9 +1918,9 @@
         "工资"
     ],
     "命运": [
-        "fate",
         "fortune",
-        "destiny"
+        "destiny",
+        "fate"
     ],
     "auxiliary": [
         "辅助的"
@@ -1962,8 +1964,8 @@
         "civilian"
     ],
     "undertaking": [
-        "保证",
-        "任务"
+        "任务",
+        "保证"
     ],
     "meaning": [
         "含义"
@@ -1990,9 +1992,9 @@
         "atmospheric"
     ],
     "会议": [
-        "meeting",
         "conference",
-        "session"
+        "session",
+        "meeting"
     ],
     "当时": [
         "then"
@@ -2098,9 +2100,9 @@
         "cling"
     ],
     "plate": [
+        "电镀",
         "盘子",
-        "镀金",
-        "电镀"
+        "镀金"
     ],
     "标志，预示": [
         "signal"
@@ -2144,8 +2146,8 @@
         "submarine"
     ],
     "pupil": [
-        "小学生",
-        "瞳孔"
+        "瞳孔",
+        "小学生"
     ],
     "流干，排水": [
         "drain"
@@ -2166,8 +2168,8 @@
         "眉毛"
     ],
     "实际上": [
-        "actually",
-        "virtually"
+        "virtually",
+        "actually"
     ],
     "柔软的": [
         "soft"
@@ -2204,8 +2206,8 @@
         "accent"
     ],
     "transparent": [
-        "透明的",
-        "明显的"
+        "明显的",
+        "透明的"
     ],
     "暴风雪": [
         "snowstorm"
@@ -2214,8 +2216,8 @@
         "借出"
     ],
     "连续": [
-        "succession",
-        "sequence"
+        "sequence",
+        "succession"
     ],
     "锁": [
         "lock"
@@ -2256,8 +2258,8 @@
         "dispassionate"
     ],
     "行政部门": [
-        "executive",
-        "sector"
+        "sector",
+        "executive"
     ],
     "mercy": [
         "慈悲",
@@ -2286,8 +2288,8 @@
         "soda"
     ],
     "机密的": [
-        "confidential",
-        "secret"
+        "secret",
+        "confidential"
     ],
     "split": [
         "劈开"
@@ -2334,9 +2336,9 @@
         "锁上"
     ],
     "疾病": [
-        "disease",
         "sickness",
-        "illness"
+        "illness",
+        "disease"
     ],
     "numerous": [
         "许多的"
@@ -2379,17 +2381,18 @@
         "occasion"
     ],
     "显著的": [
-        "prominent",
         "remarkable",
+        "prominent",
         "conspicuous",
-        "outstanding"
+        "outstanding",
+        "striking"
     ],
     "使无能": [
         "disable"
     ],
     "mask": [
-        "伪装",
-        "面具"
+        "面具",
+        "伪装"
     ],
     "小心的": [
         "cautious"
@@ -2422,8 +2425,8 @@
         "whether"
     ],
     "sake": [
-        "目的",
-        "缘故"
+        "缘故",
+        "目的"
     ],
     "英寸": [
         "inch"
@@ -2454,8 +2457,8 @@
         "slice"
     ],
     "狡猾的": [
-        "sly",
-        "cunning"
+        "cunning",
+        "sly"
     ],
     "通讯员": [
         "correspondent"
@@ -2464,8 +2467,8 @@
         "authority"
     ],
     "positive": [
-        "正面的",
-        "阳性的"
+        "阳性的",
+        "正面的"
     ],
     "分界线": [
         "boundary"
@@ -2498,8 +2501,8 @@
         "type"
     ],
     "tag": [
-        "标签",
-        "贴标签"
+        "贴标签",
+        "标签"
     ],
     "两者都不": [
         "neither"
@@ -2568,8 +2571,8 @@
         "操作人员"
     ],
     "jaw": [
-        "喋喋不休",
-        "颚"
+        "颚",
+        "喋喋不休"
     ],
     "签名": [
         "sign",
@@ -2594,8 +2597,8 @@
         "叉子"
     ],
     "学习": [
-        "study",
-        "learn"
+        "learn",
+        "study"
     ],
     "broken": [
         "破碎的"
@@ -2619,8 +2622,8 @@
         "actor"
     ],
     "生动的": [
-        "live",
-        "vivid"
+        "vivid",
+        "live"
     ],
     "照耀": [
         "shine"
@@ -2641,8 +2644,8 @@
         "组织"
     ],
     "十进制的": [
-        "metric",
-        "decimal"
+        "decimal",
+        "metric"
     ],
     "航线": [
         "airline"
@@ -2673,8 +2676,8 @@
         "唤醒"
     ],
     "体面的": [
-        "decent",
-        "presentable"
+        "presentable",
+        "decent"
     ],
     "rigid": [
         "刻板的"
@@ -2683,8 +2686,8 @@
         "fireman"
     ],
     "多余的": [
-        "unnecessary",
-        "spare"
+        "spare",
+        "unnecessary"
     ],
     "junior": [
         "年少的"
@@ -2738,9 +2741,9 @@
         "draught"
     ],
     "有利的": [
-        "profitable",
         "favourable",
-        "favorable"
+        "favorable",
+        "profitable"
     ],
     "后悔": [
         "regret"
@@ -2749,8 +2752,8 @@
         "不规则的"
     ],
     "sow": [
-        "播种",
-        "母猪"
+        "母猪",
+        "播种"
     ],
     "scheme": [
         "方案",
@@ -2770,9 +2773,9 @@
     ],
     "抑制": [
         "restrain",
-        "inhibit",
         "refrain",
-        "check"
+        "check",
+        "inhibit"
     ],
     "镭": [
         "radium"
@@ -2802,8 +2805,8 @@
         "极好的"
     ],
     "柔和地": [
-        "gently",
-        "softly"
+        "softly",
+        "gently"
     ],
     "lump": [
         "块状"
@@ -2854,7 +2857,8 @@
         "chat"
     ],
     "及时的": [
-        "prompt"
+        "prompt",
+        "timely"
     ],
     "harm": [
         "伤害"
@@ -2881,11 +2885,12 @@
         "crackdown"
     ],
     "slogan": [
-        "标语"
+        "标语",
+        "口号"
     ],
     "搭乘": [
-        "ride",
-        "take"
+        "take",
+        "ride"
     ],
     "奢侈": [
         "luxury"
@@ -2927,8 +2932,8 @@
         "oppress"
     ],
     "电缆": [
-        "cable",
-        "wire"
+        "wire",
+        "cable"
     ],
     "translate": [
         "翻译"
@@ -2974,8 +2979,8 @@
         "punctual"
     ],
     "object": [
-        "拒绝",
-        "物体"
+        "物体",
+        "拒绝"
     ],
     "attempt": [
         "尝试"
@@ -2993,8 +2998,8 @@
         "provided"
     ],
     "旗帜": [
-        "banner",
-        "flag"
+        "flag",
+        "banner"
     ],
     "庇护": [
         "refuge"
@@ -3018,8 +3023,8 @@
         "名誉"
     ],
     "坚定的": [
-        "steady",
-        "determined"
+        "determined",
+        "steady"
     ],
     "支票": [
         "cheque"
@@ -3040,8 +3045,8 @@
         "certainty"
     ],
     "torch": [
-        "火炬",
-        "手电筒"
+        "手电筒",
+        "火炬"
     ],
     "gang": [
         "一帮"
@@ -3109,7 +3114,8 @@
         "crude"
     ],
     "投机": [
-        "venture"
+        "venture",
+        "speculate"
     ],
     "橙色的": [
         "orange"
@@ -3134,8 +3140,8 @@
         "greenhouse"
     ],
     "标签": [
-        "label",
-        "tag"
+        "tag",
+        "label"
     ],
     "input": [
         "输入"
@@ -3147,8 +3153,8 @@
         "收入"
     ],
     "陈述": [
-        "statement",
-        "state"
+        "state",
+        "statement"
     ],
     "对应物": [
         "counterpart"
@@ -3190,8 +3196,8 @@
         "cliff"
     ],
     "worth": [
-        "值得的",
-        "价值"
+        "价值",
+        "值得的"
     ],
     "框架": [
         "framework",
@@ -3204,8 +3210,8 @@
         "探险"
     ],
     "fold": [
-        "折叠",
-        "折痕"
+        "折痕",
+        "折叠"
     ],
     "指责": [
         "reproach",
@@ -3339,9 +3345,9 @@
     ],
     "想象": [
         "fancy",
+        "envisage",
         "picture",
-        "imagine",
-        "envisage"
+        "imagine"
     ],
     "升，公升(容量单位)": [
         "liter"
@@ -3350,8 +3356,8 @@
         "渴望"
     ],
     "wax": [
-        "蜂蜡",
-        "上蜡"
+        "上蜡",
+        "蜂蜡"
     ],
     "mixture": [
         "混合"
@@ -3390,8 +3396,8 @@
         "婴儿"
     ],
     "purify": [
-        "使洁净",
-        "精炼（金属）"
+        "精炼（金属）",
+        "使洁净"
     ],
     "afterward": [
         "后来"
@@ -3406,8 +3412,8 @@
         "folk"
     ],
     "tap": [
-        "轻拍",
-        "龙头"
+        "龙头",
+        "轻拍"
     ],
     "店铺": [
         "shop"
@@ -3448,8 +3454,8 @@
         "formula"
     ],
     "underground": [
-        "秘密的",
-        "地铁"
+        "地铁",
+        "秘密的"
     ],
     "使…窒息": [
         "choke"
@@ -3461,8 +3467,8 @@
         "行星"
     ],
     "prescribe": [
-        "开处方药",
-        "规定"
+        "规定",
+        "开处方药"
     ],
     "海": [
         "sea"
@@ -3541,16 +3547,16 @@
         "mostly"
     ],
     "sway": [
-        "使动摇",
-        "动摇"
+        "动摇",
+        "使动摇"
     ],
     "mystery": [
         "神秘"
     ],
     "whip": [
+        "鞭策",
         "鞭笞",
-        "搅拌器",
-        "鞭策"
+        "搅拌器"
     ],
     "粥": [
         "porridge"
@@ -3628,8 +3634,8 @@
         "serve"
     ],
     "steep": [
-        "险峻的",
-        "浸泡"
+        "浸泡",
+        "险峻的"
     ],
     "forward": [
         "向前"
@@ -3669,8 +3675,8 @@
         "劳动者"
     ],
     "伐木": [
-        "log",
-        "lumber"
+        "lumber",
+        "log"
     ],
     "摩擦": [
         "friction"
@@ -3685,12 +3691,12 @@
         "花"
     ],
     "volume": [
-        "册",
-        "容积"
+        "容积",
+        "册"
     ],
     "关系": [
-        "relationship",
-        "relation"
+        "relation",
+        "relationship"
     ],
     "无期(徒刑)": [
         "life"
@@ -3720,8 +3726,8 @@
         "吹"
     ],
     "minute": [
-        "微小的",
-        "详细的"
+        "详细的",
+        "微小的"
     ],
     "relieve": [
         "减轻"
@@ -3755,15 +3761,15 @@
         "hero"
     ],
     "security": [
-        "保证金",
-        "安全感"
+        "安全感",
+        "保证金"
     ],
     "他(她)们的东西": [
         "theirs"
     ],
     "花费": [
-        "expense",
-        "spend"
+        "spend",
+        "expense"
     ],
     "漏洞": [
         "leak"
@@ -3778,8 +3784,8 @@
         "like"
     ],
     "oppress": [
-        "压抑",
         "压迫",
+        "压抑",
         "压制"
     ],
     "structure": [
@@ -3821,9 +3827,9 @@
         "抢劫"
     ],
     "检查": [
+        "check",
         "examine",
-        "inspect",
-        "check"
+        "inspect"
     ],
     "一致": [
         "accordance",
@@ -3854,13 +3860,13 @@
         "引擎"
     ],
     "繁殖": [
-        "breed",
         "reproduce",
+        "breed",
         "propagate"
     ],
     "flat": [
-        "平坦的",
-        "公寓"
+        "公寓",
+        "平坦的"
     ],
     "shame": [
         "羞耻"
@@ -3936,9 +3942,9 @@
         "tail"
     ],
     "生计": [
-        "keep",
         "livelihood",
-        "living"
+        "living",
+        "keep"
     ],
     "僵局": [
         "deadlock"
@@ -3954,8 +3960,8 @@
     ],
     "slit": [
         "投币口",
-        "撕开",
-        "裂缝"
+        "裂缝",
+        "撕开"
     ],
     "贿赂": [
         "corrupt"
@@ -3970,9 +3976,9 @@
         "阴影"
     ],
     "sphere": [
-        "球体",
+        "球面",
         "范围",
-        "球面"
+        "球体"
     ],
     "spray": [
         "喷雾"
@@ -3987,8 +3993,8 @@
         "keyboard"
     ],
     "wheel": [
-        "车轮",
-        "转动"
+        "转动",
+        "车轮"
     ],
     "研究人员": [
         "researcher"
@@ -3997,8 +4003,8 @@
         "possess"
     ],
     "宇宙的": [
-        "cosmic",
-        "universal"
+        "universal",
+        "cosmic"
     ],
     "狭窄的": [
         "narrow"
@@ -4065,8 +4071,8 @@
         "打猎"
     ],
     "throng": [
-        "挤满",
-        "人群"
+        "人群",
+        "挤满"
     ],
     "margin": [
         "边缘"
@@ -4084,8 +4090,8 @@
         "日本的"
     ],
     "seal": [
-        "印章",
-        "海豹"
+        "海豹",
+        "印章"
     ],
     "毕业班学生": [
         "senior"
@@ -4224,15 +4230,15 @@
         "偷"
     ],
     "jam": [
-        "果酱",
-        "堵塞"
+        "堵塞",
+        "果酱"
     ],
     "假定，设想": [
         "assume"
     ],
     "sock": [
-        "短袜",
-        "猛击"
+        "猛击",
+        "短袜"
     ],
     "护腕": [
         "wrist"
@@ -4248,8 +4254,8 @@
         "lorry"
     ],
     "workshop": [
-        "车间",
-        "研讨会"
+        "研讨会",
+        "车间"
     ],
     "action": [
         "行动"
@@ -4296,13 +4302,13 @@
         "场景"
     ],
     "可能性": [
-        "odds",
+        "likelihood",
         "possibility",
-        "likelihood"
+        "odds"
     ],
     "鼓励": [
-        "urge",
-        "encourage"
+        "encourage",
+        "urge"
     ],
     "遍及全球的": [
         "world-wide"
@@ -4326,8 +4332,8 @@
         "disturbance"
     ],
     "辞职": [
-        "resign",
-        "resignation"
+        "resignation",
+        "resign"
     ],
     "powder": [
         "粉末"
@@ -4427,8 +4433,8 @@
         "排除"
     ],
     "改变": [
-        "alter",
-        "shift"
+        "shift",
+        "alter"
     ],
     "履历": [
         "resume"
@@ -4446,8 +4452,8 @@
         "property"
     ],
     "president": [
-        "校长",
-        "总统"
+        "总统",
+        "校长"
     ],
     "适宜的": [
         "fit"
@@ -4477,8 +4483,8 @@
         "inspire"
     ],
     "火药": [
-        "gunpowder",
-        "powder"
+        "powder",
+        "gunpowder"
     ],
     "指出，指示": [
         "designate"
@@ -4511,9 +4517,9 @@
         "rid"
     ],
     "方法": [
-        "means",
         "approach",
-        "method"
+        "method",
+        "means"
     ],
     "lavatory": [
         "盥洗室"
@@ -4627,9 +4633,9 @@
         "letter"
     ],
     "prompt": [
-        "激起",
         "促使",
-        "迅速的"
+        "迅速的",
+        "激起"
     ],
     "southern": [
         "南部的"
@@ -4675,17 +4681,17 @@
         "dim"
     ],
     "下降": [
-        "decline",
-        "descend"
+        "descend",
+        "decline"
     ],
     "国内的": [
         "home",
         "domestic"
     ],
     "注意": [
-        "notice",
+        "heed",
         "mind",
-        "heed"
+        "notice"
     ],
     "invitation": [
         "邀请"
@@ -4694,8 +4700,8 @@
         "grace"
     ],
     "sort": [
-        "种类",
-        "整理"
+        "整理",
+        "种类"
     ],
     "面具": [
         "mask"
@@ -4746,15 +4752,15 @@
         "startle"
     ],
     "在……上": [
-        "upon",
-        "on"
+        "on",
+        "upon"
     ],
     "开花": [
         "bloom"
     ],
     "rebellion": [
-        "叛乱",
-        "反抗"
+        "反抗",
+        "叛乱"
     ],
     "spaceship": [
         "航天飞船"
@@ -4773,14 +4779,15 @@
         "evident"
     ],
     "plot": [
-        "密谋",
-        "情节"
+        "情节",
+        "密谋"
     ],
     "scatter": [
         "散播"
     ],
     "thrill": [
-        "震颤"
+        "震颤",
+        "（使）激动"
     ],
     "榨取": [
         "squeeze"
@@ -4826,8 +4833,8 @@
         "vacuum"
     ],
     "眼界": [
-        "scope",
-        "sight"
+        "sight",
+        "scope"
     ],
     "成功者": [
         "success"
@@ -4853,9 +4860,9 @@
         "鼓励"
     ],
     "完全的": [
+        "purely",
         "absolute",
-        "utter",
-        "purely"
+        "utter"
     ],
     "exceedingly": [
         "非常"
@@ -4869,8 +4876,8 @@
         "剪刀"
     ],
     "plug": [
-        "塞子",
-        "插头"
+        "插头",
+        "塞子"
     ],
     "heal": [
         "治愈"
@@ -4919,12 +4926,12 @@
         "vocabulary"
     ],
     "sustain": [
-        "承受",
-        "维持"
+        "维持",
+        "承受"
     ],
     "重述": [
-        "repeat",
-        "retell"
+        "retell",
+        "repeat"
     ],
     "wish": [
         "希望"
@@ -4964,12 +4971,12 @@
         "物质主义"
     ],
     "press": [
-        "压",
-        "强迫"
+        "强迫",
+        "压"
     ],
     "tuck": [
-        "打摺",
-        "卷起"
+        "卷起",
+        "打摺"
     ],
     "apologize": [
         "道歉"
@@ -5017,8 +5024,8 @@
         "sink"
     ],
     "sheet": [
-        "片状的",
-        "被单"
+        "被单",
+        "片状的"
     ],
     "复数": [
         "plural"
@@ -5030,12 +5037,13 @@
         "assist"
     ],
     "静止的": [
-        "static",
-        "still"
+        "still",
+        "static"
     ],
     "解决": [
-        "resolve",
         "solution",
+        "tackle",
+        "resolve",
         "solve"
     ],
     "惊异": [
@@ -5120,8 +5128,8 @@
         "神殿"
     ],
     "投票": [
-        "poll",
-        "vote"
+        "vote",
+        "poll"
     ],
     "少量地(副词)": [
         "little"
@@ -5133,8 +5141,8 @@
         "evaluate"
     ],
     "substantial": [
-        "实质的",
-        "可观的"
+        "可观的",
+        "实质的"
     ],
     "invention": [
         "发明物"
@@ -5201,19 +5209,19 @@
         "butcher"
     ],
     "感激": [
-        "appreciate",
-        "gratitude"
+        "gratitude",
+        "appreciate"
     ],
     "兴旺的": [
         "prosperous"
     ],
     "囚犯": [
-        "prisoner",
-        "convict"
+        "convict",
+        "prisoner"
     ],
     "派遣": [
-        "despatch",
-        "send"
+        "send",
+        "despatch"
     ],
     "目瞪口呆的": [
         "dumb-founded"
@@ -5234,8 +5242,8 @@
         "reliance"
     ],
     "精致的": [
-        "exquisite",
-        "sophisticated"
+        "sophisticated",
+        "exquisite"
     ],
     "pull": [
         "拉"
@@ -5272,8 +5280,8 @@
     ],
     "公司": [
         "corporation",
-        "firm",
-        "company"
+        "company",
+        "firm"
     ],
     "background": [
         "背景"
@@ -5312,8 +5320,10 @@
         "failure"
     ],
     "stitch": [
+        "一针",
+        "针脚",
         "缝合",
-        "针脚"
+        "缝"
     ],
     "十分之一": [
         "tenth"
@@ -5328,8 +5338,8 @@
         "underneath"
     ],
     "精力旺盛的": [
-        "energetic",
-        "vigorous"
+        "vigorous",
+        "energetic"
     ],
     "态度": [
         "attitude"
@@ -5353,9 +5363,9 @@
         "肘部"
     ],
     "state": [
-        "状态",
+        "阐明",
         "州",
-        "阐明"
+        "状态"
     ],
     "加油于…,涂油": [
         "oil"
@@ -5367,8 +5377,8 @@
         "航班"
     ],
     "努力": [
-        "effort",
-        "endeavor"
+        "endeavor",
+        "effort"
     ],
     "merely": [
         "仅仅地"
@@ -5377,8 +5387,8 @@
         "迅速地"
     ],
     "获得": [
-        "attain",
-        "acquire"
+        "acquire",
+        "attain"
     ],
     "serious": [
         "严肃的"
@@ -5495,8 +5505,8 @@
     ],
     "然而": [
         "nevertheless",
-        "yet",
-        "however"
+        "however",
+        "yet"
     ],
     "generation": [
         "一代"
@@ -5508,8 +5518,8 @@
         "骑"
     ],
     "需要": [
-        "need",
-        "require"
+        "require",
+        "need"
     ],
     "听从": [
         "obey"
@@ -5518,8 +5528,8 @@
         "强烈的"
     ],
     "mist": [
-        "使…模糊",
-        "薄雾"
+        "薄雾",
+        "使…模糊"
     ],
     "物理学家": [
         "physicist"
@@ -5543,8 +5553,8 @@
         "选举"
     ],
     "receiver": [
-        "听筒",
-        "收受者"
+        "收受者",
+        "听筒"
     ],
     "大声地": [
         "loudly"
@@ -5562,9 +5572,9 @@
         "welfare"
     ],
     "temper": [
+        "使缓和",
         "脾气",
-        "性情",
-        "使缓和"
+        "性情"
     ],
     "蠕虫": [
         "worm"
@@ -5588,8 +5598,8 @@
         "add"
     ],
     "value": [
-        "价值",
-        "估价"
+        "估价",
+        "价值"
     ],
     "van": [
         "运货车"
@@ -5636,8 +5646,8 @@
         "lamb"
     ],
     "handle": [
-        "处理",
-        "把手"
+        "把手",
+        "处理"
     ],
     "橄榄球": [
         "football"
@@ -5690,9 +5700,9 @@
         "glue"
     ],
     "muddy": [
-        "泥泞的",
         "肮脏的",
-        "弄脏"
+        "弄脏",
+        "泥泞的"
     ],
     "原始的": [
         "primitive"
@@ -5764,8 +5774,8 @@
         "ash"
     ],
     "wave": [
-        "波浪",
-        "波动"
+        "波动",
+        "波浪"
     ],
     "pretend": [
         "假装",
@@ -5775,8 +5785,8 @@
         "inner"
     ],
     "循环": [
-        "circulation",
-        "rotation"
+        "rotation",
+        "circulation"
     ],
     "banner": [
         "横幅"
@@ -5785,9 +5795,9 @@
         "节日"
     ],
     "spare": [
+        "闲置的",
         "使免遭",
-        "节约",
-        "闲置的"
+        "节约"
     ],
     "怜悯": [
         "pity"
@@ -5859,8 +5869,8 @@
         "friendly"
     ],
     "调停": [
-        "mediate",
-        "settle"
+        "settle",
+        "mediate"
     ],
     "statement": [
         "陈述"
@@ -5902,9 +5912,9 @@
         "elbow"
     ],
     "建议": [
-        "suggest",
         "suggestion",
-        "advise"
+        "advise",
+        "suggest"
     ],
     "hopeless": [
         "绝望的"
@@ -5930,8 +5940,8 @@
         "gauge"
     ],
     "property": [
-        "性质",
-        "财产"
+        "财产",
+        "性质"
     ],
     "女演员": [
         "actress"
@@ -5956,8 +5966,8 @@
         "公升"
     ],
     "utility": [
-        "多功能的",
-        "效用"
+        "效用",
+        "多功能的"
     ],
     "绕……走": [
         "skirt"
@@ -5975,8 +5985,8 @@
         "到达"
     ],
     "处理": [
-        "disposal",
-        "handle"
+        "handle",
+        "disposal"
     ],
     "潮汐": [
         "tide"
@@ -5991,8 +6001,8 @@
         "reflect"
     ],
     "概念": [
-        "conception",
-        "concept"
+        "concept",
+        "conception"
     ],
     "重要人物": [
         "somebody"
@@ -6031,8 +6041,8 @@
         "reliability"
     ],
     "幻想": [
-        "vision",
-        "illusion"
+        "illusion",
+        "vision"
     ],
     "允许": [
         "allow"
@@ -6059,16 +6069,16 @@
         "任命"
     ],
     "mug": [
-        "杯子",
         "攻击",
-        "抢劫"
+        "抢劫",
+        "杯子"
     ],
     "连贯的": [
         "coherent"
     ],
     "rock": [
-        "岩石",
-        "摇摆"
+        "摇摆",
+        "岩石"
     ],
     "handful": [
         "一把"
@@ -6095,9 +6105,9 @@
         "中断"
     ],
     "mess": [
+        "弄乱",
         "搞糟",
-        "混乱",
-        "弄乱"
+        "混乱"
     ],
     "gay": [
         "同性恋"
@@ -6201,8 +6211,8 @@
         "second"
     ],
     "nut": [
-        "坚果",
-        "螺母"
+        "螺母",
+        "坚果"
     ],
     "filter": [
         "过滤"
@@ -6223,8 +6233,8 @@
         "commemorate"
     ],
     "rest": [
-        "其余的",
-        "休息"
+        "休息",
+        "其余的"
     ],
     "排球": [
         "volleyball"
@@ -6257,9 +6267,9 @@
         "支撑"
     ],
     "忍受": [
-        "withstand",
         "endure",
         "stand",
+        "withstand",
         "bear"
     ],
     "经历": [
@@ -6312,11 +6322,12 @@
         "矿物的"
     ],
     "tuition": [
+        "教诲",
         "学费"
     ],
     "sight": [
-        "看见",
-        "眼界"
+        "眼界",
+        "看见"
     ],
     "自始至终": [
         "throughout"
@@ -6358,9 +6369,9 @@
         "helpless"
     ],
     "视力": [
+        "eyesight",
         "vision",
-        "sight",
-        "eyesight"
+        "sight"
     ],
     "缺席的": [
         "absent"
@@ -6369,8 +6380,8 @@
         "办公室"
     ],
     "历史的": [
-        "historical",
-        "historic"
+        "historic",
+        "historical"
     ],
     "轻便的": [
         "portable"
@@ -6379,8 +6390,8 @@
         "悲痛"
     ],
     "occupy": [
-        "使忙碌",
-        "占有"
+        "占有",
+        "使忙碌"
     ],
     "缺乏的": [
         "scarce"
@@ -6425,9 +6436,9 @@
         "gift"
     ],
     "overall": [
+        "总的来说",
         "工装裤",
-        "全体的",
-        "总的来说"
+        "全体的"
     ],
     "military": [
         "军事的"
@@ -6436,8 +6447,8 @@
         "品脱"
     ],
     "参加": [
-        "attend",
-        "join"
+        "join",
+        "attend"
     ],
     "形状": [
         "shape"
@@ -6519,15 +6530,15 @@
         "监狱"
     ],
     "vest": [
-        "授予",
-        "背心"
+        "背心",
+        "授予"
     ],
     "痛处": [
         "sore"
     ],
     "溶液": [
-        "solution",
-        "liquor"
+        "liquor",
+        "solution"
     ],
     "口头的": [
         "oral"
@@ -6587,8 +6598,8 @@
         "排除"
     ],
     "skim": [
-        "掠过",
-        "略读"
+        "略读",
+        "掠过"
     ],
     "genuine": [
         "真正的"
@@ -6612,7 +6623,8 @@
         "绊倒"
     ],
     "特定的": [
-        "specific"
+        "specific",
+        "specifically"
     ],
     "honesty": [
         "坦率"
@@ -6627,15 +6639,15 @@
         "态度"
     ],
     "Mediterranean": [
-        "地中海",
-        "地中海的"
+        "地中海的",
+        "地中海"
     ],
     "rid": [
         "使摆脱"
     ],
     "发生": [
-        "happen",
-        "occur"
+        "occur",
+        "happen"
     ],
     "gentle": [
         "温和的"
@@ -6653,8 +6665,8 @@
         "手枪"
     ],
     "relate": [
-        "叙述",
-        "有关联"
+        "有关联",
+        "叙述"
     ],
     "俄罗斯的": [
         "Russian"
@@ -6703,8 +6715,8 @@
         "mobility"
     ],
     "premier": [
-        "总理",
-        "首位的"
+        "首位的",
+        "总理"
     ],
     "heating": [
         "加热的"
@@ -6783,8 +6795,8 @@
         "省略"
     ],
     "hole": [
-        "洞穴",
-        "挖掘"
+        "挖掘",
+        "洞穴"
     ],
     "贬值，轻视": [
         "depreciate"
@@ -6793,8 +6805,8 @@
         "围住"
     ],
     "mushroom": [
-        "扩张",
-        "蘑菇"
+        "蘑菇",
+        "扩张"
     ],
     "stadium": [
         "竞技场"
@@ -6827,12 +6839,12 @@
         "不必要的"
     ],
     "elaborate": [
-        "详述",
-        "精细的"
+        "精细的",
+        "详述"
     ],
     "多产的": [
-        "productive",
-        "fruitful"
+        "fruitful",
+        "productive"
     ],
     "leisure": [
         "空闲时间"
@@ -6925,8 +6937,8 @@
         "陆地"
     ],
     "男性的": [
-        "male",
-        "masculine"
+        "masculine",
+        "male"
     ],
     "stool": [
         "凳子"
@@ -7178,15 +7190,15 @@
         "投资额"
     ],
     "row": [
-        "划船",
-        "排"
+        "排",
+        "划船"
     ],
     "juice": [
         "果汁"
     ],
     "推论": [
-        "inference",
-        "infer"
+        "infer",
+        "inference"
     ],
     "怀疑": [
         "suspect"
@@ -7195,8 +7207,8 @@
         "平均的"
     ],
     "标题": [
-        "heading",
-        "title"
+        "title",
+        "heading"
     ],
     "verify": [
         "证实"
@@ -7215,8 +7227,8 @@
         "proportional"
     ],
     "小说": [
-        "fiction",
-        "novel"
+        "novel",
+        "fiction"
     ],
     "possibility": [
         "可能性"
@@ -7374,8 +7386,8 @@
         "成绩单"
     ],
     "爆炸": [
-        "explosion",
-        "blast"
+        "blast",
+        "explosion"
     ],
     "employee": [
         "雇员"
@@ -7390,8 +7402,8 @@
         "费用"
     ],
     "plunge": [
-        "投入",
-        "跳进"
+        "跳进",
+        "投入"
     ],
     "小萝卜": [
         "radish"
@@ -7499,8 +7511,8 @@
         "restaurant"
     ],
     "实施": [
-        "execute",
-        "enforce"
+        "enforce",
+        "execute"
     ],
     "正直的": [
         "upright",
@@ -7516,9 +7528,9 @@
         "solid"
     ],
     "尺寸": [
-        "measurement",
         "dimension",
-        "size"
+        "size",
+        "measurement"
     ],
     "想象中的": [
         "imaginary"
@@ -7560,8 +7572,8 @@
         "律师"
     ],
     "upset": [
-        "心烦的",
         "打翻",
+        "心烦的",
         "使难过"
     ],
     "flag": [
@@ -7577,8 +7589,8 @@
         "bet"
     ],
     "regard": [
-        "尊重",
-        "把…看做"
+        "把…看做",
+        "尊重"
     ],
     "顽皮的": [
         "naughty"
@@ -7596,8 +7608,8 @@
         "acquaintance"
     ],
     "sack": [
-        "劫掠",
-        "麻袋"
+        "麻袋",
+        "劫掠"
     ],
     "tradition": [
         "传统"
@@ -7628,8 +7640,8 @@
         "不同的"
     ],
     "拧": [
-        "twist",
-        "pinch"
+        "pinch",
+        "twist"
     ],
     "submerge": [
         "浸没"
@@ -7641,8 +7653,8 @@
         "freight"
     ],
     "brave": [
-        "抵抗",
-        "勇敢的"
+        "勇敢的",
+        "抵抗"
     ],
     "用户": [
         "user"
@@ -7683,8 +7695,8 @@
         "先前地"
     ],
     "沼泽地": [
-        "swamp",
-        "marsh"
+        "marsh",
+        "swamp"
     ],
     "fifteen": [
         "十五"
@@ -7716,8 +7728,8 @@
         "see"
     ],
     "official": [
-        "官方的",
-        "官员的"
+        "官员的",
+        "官方的"
     ],
     "技师": [
         "technician"
@@ -7732,8 +7744,8 @@
         "tap"
     ],
     "要求": [
-        "demand",
-        "request"
+        "request",
+        "demand"
     ],
     "forbid": [
         "禁止"
@@ -7767,8 +7779,8 @@
         "使…欣喜"
     ],
     "shut": [
-        "合拢的",
-        "关闭"
+        "关闭",
+        "合拢的"
     ],
     "关键": [
         "key"
@@ -7788,8 +7800,8 @@
         "抓"
     ],
     "密集的": [
-        "dense",
-        "intensive"
+        "intensive",
+        "dense"
     ],
     "光": [
         "light"
@@ -7839,9 +7851,9 @@
         "stability"
     ],
     "pitch": [
+        "投掷",
         "沥青",
-        "高音",
-        "投掷"
+        "高音"
     ],
     "band": [
         "乐队"
@@ -7904,8 +7916,8 @@
         "洗发剂"
     ],
     "消息": [
-        "news",
-        "word"
+        "word",
+        "news"
     ],
     "outlet": [
         "出气口"
@@ -7952,9 +7964,9 @@
         "巨大的"
     ],
     "垃圾": [
+        "rubbish",
         "refuse",
-        "garbage",
-        "rubbish"
+        "garbage"
     ],
     "fall": [
         "落下"
@@ -8035,9 +8047,9 @@
         "lamp"
     ],
     "强迫": [
-        "constrain",
+        "compel",
         "force",
-        "compel"
+        "constrain"
     ],
     "跑步者": [
         "runner"
@@ -8138,8 +8150,8 @@
         "time"
     ],
     "soil": [
-        "弄脏",
-        "泥土"
+        "泥土",
+        "弄脏"
     ],
     "在楼上": [
         "upstairs"
@@ -8154,8 +8166,8 @@
         "猛拉"
     ],
     "raid": [
-        "突然搜查",
-        "袭击"
+        "袭击",
+        "突然搜查"
     ],
     "unkind": [
         "不友善的"
@@ -8164,15 +8176,15 @@
         "紧张的"
     ],
     "意外的": [
-        "unexpected",
-        "accidental"
+        "accidental",
+        "unexpected"
     ],
     "favour": [
         "恩惠"
     ],
     "位于": [
-        "locate",
-        "lie"
+        "lie",
+        "locate"
     ],
     "血管": [
         "vessel"
@@ -8196,8 +8208,8 @@
         "specific"
     ],
     "蒸汽": [
-        "vapour",
-        "steam"
+        "steam",
+        "vapour"
     ],
     "十三": [
         "thirteen"
@@ -8285,8 +8297,8 @@
         "post"
     ],
     "胆怯的": [
-        "timid",
-        "shy"
+        "shy",
+        "timid"
     ],
     "艺术的": [
         "artistic"
@@ -8301,6 +8313,7 @@
         "sheet"
     ],
     "超越": [
+        "transcend",
         "exceed"
     ],
     "loose": [
@@ -8317,8 +8330,8 @@
         "范围"
     ],
     "tear": [
-        "眼泪",
-        "撕裂"
+        "撕裂",
+        "眼泪"
     ],
     "规则": [
         "rule"
@@ -8363,8 +8376,8 @@
         "rocket"
     ],
     "program": [
-        "程序",
-        "节目单"
+        "节目单",
+        "程序"
     ],
     "障碍物": [
         "obstacle"
@@ -8412,8 +8425,8 @@
         "母鸡"
     ],
     "领袖": [
-        "head",
-        "leader"
+        "leader",
+        "head"
     ],
     "porter": [
         "搬运工人"
@@ -8437,8 +8450,8 @@
         "雇主"
     ],
     "mute": [
-        "哑的",
-        "哑巴"
+        "哑巴",
+        "哑的"
     ],
     "硕士": [
         "master"
@@ -8447,8 +8460,8 @@
         "than"
     ],
     "hammer": [
-        "锤击",
-        "榔头"
+        "榔头",
+        "锤击"
     ],
     "聚光灯": [
         "spot"
@@ -8520,8 +8533,8 @@
         "优美"
     ],
     "领域": [
-        "domain",
-        "sphere"
+        "sphere",
+        "domain"
     ],
     "重点": [
         "emphasis"
@@ -8564,8 +8577,8 @@
         "assignment"
     ],
     "swan": [
-        "闲荡",
-        "天鹅"
+        "天鹅",
+        "闲荡"
     ],
     "眼力，远见": [
         "vision"
@@ -8613,8 +8626,8 @@
         "attack"
     ],
     "sink": [
-        "下降",
-        "下沉"
+        "下沉",
+        "下降"
     ],
     "响亮的": [
         "loud"
@@ -8769,12 +8782,12 @@
         "愤愤不平的"
     ],
     "tan": [
-        "棕褐色",
-        "晒黑"
+        "晒黑",
+        "棕褐色"
     ],
     "错误的": [
-        "erroneous",
-        "wrong"
+        "wrong",
+        "erroneous"
     ],
     "loaf": [
         "游手好闲"
@@ -8789,8 +8802,8 @@
         "中级的"
     ],
     "遮蔽": [
-        "screen",
-        "shield"
+        "shield",
+        "screen"
     ],
     "hate": [
         "憎恨"
@@ -8799,9 +8812,9 @@
         "花费"
     ],
     "几乎不": [
+        "scarcely",
         "hardly",
-        "seldom",
-        "scarcely"
+        "seldom"
     ],
     "beg": [
         "乞讨"
@@ -8819,8 +8832,8 @@
         "强调"
     ],
     "rate": [
-        "比率",
-        "估价"
+        "估价",
+        "比率"
     ],
     "procession": [
         "队伍"
@@ -8862,9 +8875,9 @@
         "announcer"
     ],
     "因此": [
-        "therefore",
         "hence",
-        "consequently"
+        "consequently",
+        "therefore"
     ],
     "logic": [
         "逻辑"
@@ -8917,6 +8930,7 @@
         "weight"
     ],
     "splash": [
+        "溅泼",
         "飞溅"
     ],
     "政客": [
@@ -8974,7 +8988,8 @@
     ],
     "spy": [
         "侦察",
-        "间谍"
+        "间谍",
+        "特务"
     ],
     "工厂": [
         "factory"
@@ -9057,8 +9072,8 @@
         "spade"
     ],
     "spit": [
-        "吐出",
-        "唾液"
+        "唾液",
+        "吐出"
     ],
     "杂色的，闪光的": [
         "shot"
@@ -9091,8 +9106,8 @@
         "因此"
     ],
     "heap": [
-        "累积",
-        "堆积"
+        "堆积",
+        "累积"
     ],
     "stormy": [
         "激烈的"
@@ -9101,8 +9116,8 @@
         "game"
     ],
     "目标": [
-        "aim",
-        "object"
+        "object",
+        "aim"
     ],
     "发电机": [
         "generator"
@@ -9138,8 +9153,8 @@
         "药片"
     ],
     "标本": [
-        "specimen",
-        "sample"
+        "sample",
+        "specimen"
     ],
     "research": [
         "探究"
@@ -9298,10 +9313,10 @@
         "lever"
     ],
     "stock": [
-        "老一套的",
-        "进货",
         "储备",
-        "存货"
+        "存货",
+        "进货",
+        "老一套的"
     ],
     "鞭策": [
         "spur"
@@ -9313,8 +9328,8 @@
         "袖子"
     ],
     "贵族": [
-        "gentle",
-        "noble"
+        "noble",
+        "gentle"
     ],
     "rarely": [
         "少有的"
@@ -9332,8 +9347,8 @@
         "相关性"
     ],
     "探险": [
-        "explore",
-        "expedition"
+        "expedition",
+        "explore"
     ],
     "represent": [
         "象征",
@@ -9349,9 +9364,9 @@
         "关系"
     ],
     "mould": [
-        "模型",
         "浇铸",
-        "发霉"
+        "发霉",
+        "模型"
     ],
     "取得资格": [
         "qualify"
@@ -9360,8 +9375,8 @@
         "team"
     ],
     "hedge": [
-        "篱笆",
-        "包围"
+        "包围",
+        "篱笆"
     ],
     "自动的": [
         "automatic"
@@ -9399,7 +9414,9 @@
         "ax"
     ],
     "scent": [
-        "气味"
+        "气味",
+        "香水",
+        "香味"
     ],
     "refuge": [
         "避难所"
@@ -9443,8 +9460,8 @@
         "必不可少的"
     ],
     "incline": [
-        "倾斜",
-        "斜坡"
+        "斜坡",
+        "倾斜"
     ],
     "加法": [
         "addition"
@@ -9459,8 +9476,8 @@
         "reward"
     ],
     "principal": [
-        "校长",
-        "首要的"
+        "首要的",
+        "校长"
     ],
     "促进": [
         "promote",
@@ -9613,8 +9630,8 @@
         "毒药"
     ],
     "成熟的": [
-        "mature",
-        "ripe"
+        "ripe",
+        "mature"
     ],
     "灌木": [
         "bush"
@@ -9623,8 +9640,8 @@
         "frank"
     ],
     "ornament": [
-        "装饰物",
-        "装修"
+        "装修",
+        "装饰物"
     ],
     "miserable": [
         "痛苦的"
@@ -9713,8 +9730,8 @@
         "奢侈"
     ],
     "quilt": [
-        "缝制",
-        "被子"
+        "被子",
+        "缝制"
     ],
     "定期地": [
         "regularly"
@@ -9745,8 +9762,8 @@
         "spelling"
     ],
     "逃跑": [
-        "escape",
-        "flee"
+        "flee",
+        "escape"
     ],
     "新颖的": [
         "original"
@@ -9807,8 +9824,8 @@
         "令人不快的"
     ],
     "witness": [
-        "见证",
-        "证据"
+        "证据",
+        "见证"
     ],
     "命名": [
         "name"
@@ -9824,8 +9841,8 @@
         "remark"
     ],
     "战役": [
-        "campaign",
-        "battle"
+        "battle",
+        "campaign"
     ],
     "vanity": [
         "虚荣心"
@@ -9963,8 +9980,8 @@
         "vessel"
     ],
     "master": [
-        "精通",
-        "大师"
+        "大师",
+        "精通"
     ],
     "Fahrenheit": [
         "华氏的"
@@ -10035,8 +10052,8 @@
         "knowledge"
     ],
     "merchant": [
-        "商人",
-        "商业的"
+        "商业的",
+        "商人"
     ],
     "预报": [
         "forecast"
@@ -10097,15 +10114,16 @@
         "prefer"
     ],
     "超过": [
+        "surpass",
         "over"
     ],
     "adjective": [
         "形容词的"
     ],
     "prevail": [
-        "流行",
         "战胜",
-        "获胜"
+        "获胜",
+        "流行"
     ],
     "现象": [
         "phenomenon"
@@ -10156,7 +10174,8 @@
         "mess"
     ],
     "合成物": [
-        "composite"
+        "composite",
+        "synthesis"
     ],
     "钱包": [
         "wallet"
@@ -10165,8 +10184,8 @@
         "注意力"
     ],
     "立即的": [
-        "immediate",
-        "instant"
+        "instant",
+        "immediate"
     ],
     "青春期": [
         "springtime"
@@ -10237,7 +10256,8 @@
     ],
     "关于": [
         "regarding",
-        "about"
+        "about",
+        "concerning"
     ],
     "苏联的": [
         "Soviet"
@@ -10255,8 +10275,8 @@
         "忙碌的"
     ],
     "有限的": [
-        "limited",
-        "finite"
+        "finite",
+        "limited"
     ],
     "睡眠": [
         "sleep"
@@ -10300,8 +10320,8 @@
         "bronze"
     ],
     "will": [
-        "意志",
-        "遗嘱"
+        "遗嘱",
+        "意志"
     ],
     "yawn": [
         "打呵欠"
@@ -10320,8 +10340,8 @@
         "门廊"
     ],
     "灰色的": [
-        "gray",
-        "grey"
+        "grey",
+        "gray"
     ],
     "尖叫": [
         "scream"
@@ -10348,9 +10368,9 @@
         "breath"
     ],
     "出现": [
+        "emerge",
         "appear",
-        "arise",
-        "emerge"
+        "arise"
     ],
     "以拳重击": [
         "punch"
@@ -10394,8 +10414,8 @@
         "共同的"
     ],
     "水平的": [
-        "horizontal",
-        "level"
+        "level",
+        "horizontal"
     ],
     "saving": [
         "节约"
@@ -10431,8 +10451,8 @@
         "scatter"
     ],
     "目录": [
-        "catalog",
-        "directory"
+        "directory",
+        "catalog"
     ],
     "射线": [
         "ray"
@@ -10471,7 +10491,8 @@
         "battery"
     ],
     "scorn": [
-        "轻蔑"
+        "轻蔑",
+        "嘲笑"
     ],
     "穿透": [
         "pierce"
@@ -10492,12 +10513,13 @@
         "yawn"
     ],
     "人群": [
-        "crowd",
-        "throng"
+        "throng",
+        "crowd"
     ],
     "tenant": [
-        "佃户",
-        "房客"
+        "承租人",
+        "房客",
+        "佃户"
     ],
     "senior": [
         "上司",
@@ -10542,8 +10564,8 @@
         "overlook"
     ],
     "纤细的": [
-        "delicate",
-        "slight"
+        "slight",
+        "delicate"
     ],
     "reed": [
         "芦苇"
@@ -10580,8 +10602,8 @@
     ],
     "严厉的": [
         "stern",
-        "tight",
-        "harsh"
+        "harsh",
+        "tight"
     ],
     "regulate": [
         "管理"
@@ -10639,8 +10661,8 @@
         "namely"
     ],
     "render": [
-        "给予",
         "使成为",
+        "给予",
         "回报"
     ],
     "健康": [
@@ -10699,8 +10721,8 @@
         "upper"
     ],
     "直到……为止": [
-        "till",
-        "until"
+        "until",
+        "till"
     ],
     "女主角": [
         "heroine"
@@ -10728,8 +10750,8 @@
         "孤独的"
     ],
     "压力": [
-        "stress",
-        "pressure"
+        "pressure",
+        "stress"
     ],
     "wool": [
         "羊毛"
@@ -10814,16 +10836,16 @@
         "severe"
     ],
     "sole": [
-        "脚底",
-        "唯一的"
+        "唯一的",
+        "脚底"
     ],
     "sufficient": [
         "足够的"
     ],
     "section": [
+        "部分",
         "部门",
-        "划分",
-        "部分"
+        "划分"
     ],
     "在户外": [
         "outdoors"
@@ -10838,8 +10860,8 @@
         "相关性"
     ],
     "orbit": [
-        "环绕",
-        "轨道"
+        "轨道",
+        "环绕"
     ],
     "劈开": [
         "split"
@@ -10893,8 +10915,8 @@
         "handful"
     ],
     "装置": [
-        "installation",
         "device",
+        "installation",
         "apparatus"
     ],
     "glitter": [
@@ -10955,9 +10977,9 @@
         "进步"
     ],
     "唯一的": [
-        "only",
+        "unique",
         "sole",
-        "unique"
+        "only"
     ],
     "温顺的": [
         "docile"
@@ -11022,8 +11044,8 @@
     ],
     "释放": [
         "release",
-        "free",
-        "discharge"
+        "discharge",
+        "free"
     ],
     "outside": [
         "外表"
@@ -11081,6 +11103,7 @@
         "护送"
     ],
     "timid": [
+        "羞怯的",
         "胆怯的"
     ],
     "表面": [
@@ -11236,8 +11259,8 @@
         "西南"
     ],
     "wrap": [
-        "披肩",
-        "裹"
+        "裹",
+        "披肩"
     ],
     "annual": [
         "年度的"
@@ -11259,7 +11282,8 @@
         "微小的"
     ],
     "surgeon": [
-        "外科医师"
+        "外科医师",
+        "军医"
     ],
     "不确定的": [
         "uncertain"
@@ -11301,8 +11325,8 @@
         "年轻的"
     ],
     "provision": [
-        "供应品",
-        "条款"
+        "条款",
+        "供应品"
     ],
     "brook": [
         "忍受"
@@ -11351,7 +11375,8 @@
         "计划表"
     ],
     "避难所": [
-        "shelter"
+        "shelter",
+        "sanctuary"
     ],
     "honest": [
         "诚实的"
@@ -11393,8 +11418,8 @@
         "校长"
     ],
     "投资": [
-        "investment",
-        "invest"
+        "invest",
+        "investment"
     ],
     "promote": [
         "发扬",
@@ -11447,8 +11472,8 @@
         "高度"
     ],
     "挑选": [
-        "selection",
-        "pick"
+        "pick",
+        "selection"
     ],
     "lighten": [
         "点亮"
@@ -11603,8 +11628,8 @@
         "安装"
     ],
     "暗示": [
-        "suggest",
-        "hint"
+        "hint",
+        "suggest"
     ],
     "细丝": [
         "thread"
@@ -11637,8 +11662,8 @@
         "援救"
     ],
     "事件": [
-        "occurrence",
-        "event"
+        "event",
+        "occurrence"
     ],
     "周末": [
         "weekend"
@@ -11647,8 +11672,8 @@
         "sticky"
     ],
     "trial": [
-        "审判",
-        "试验"
+        "试验",
+        "审判"
     ],
     "家用电器": [
         "appliance"
@@ -11685,8 +11710,8 @@
         "教授"
     ],
     "照片": [
-        "picture",
-        "photograph"
+        "photograph",
+        "picture"
     ],
     "光荣的": [
         "honourable",
@@ -11724,8 +11749,8 @@
         "idle"
     ],
     "次序": [
-        "sequence",
-        "order"
+        "order",
+        "sequence"
     ],
     "speciality": [
         "特长"
@@ -11875,8 +11900,8 @@
         "abstract"
     ],
     "僵硬的": [
-        "stiff",
-        "rigid"
+        "rigid",
+        "stiff"
     ],
     "trace": [
         "追踪",
@@ -11974,7 +11999,8 @@
         "呼喊"
     ],
     "证明": [
-        "prove"
+        "prove",
+        "testify"
     ],
     "真正的": [
         "genuine"
@@ -12020,8 +12046,8 @@
         "satellite"
     ],
     "货物": [
-        "goods",
-        "freight"
+        "freight",
+        "goods"
     ],
     "point": [
         "要点"
@@ -12090,8 +12116,8 @@
         "emphasize"
     ],
     "relative": [
-        "相对的",
-        "有关系的"
+        "有关系的",
+        "相对的"
     ],
     "唯物主义": [
         "materialism"
@@ -12100,9 +12126,9 @@
         "slipper"
     ],
     "spark": [
+        "冒火花",
         "激发",
-        "火花",
-        "冒火花"
+        "火花"
     ],
     "sensitive": [
         "敏感的"
@@ -12154,8 +12180,8 @@
         "体积"
     ],
     "oriental": [
-        "东方的",
-        "东方国家的"
+        "东方国家的",
+        "东方的"
     ],
     "attribute": [
         "归因于"
@@ -12210,8 +12236,8 @@
         "tense"
     ],
     "劫掠": [
-        "robbery",
-        "rob"
+        "rob",
+        "robbery"
     ],
     "unfair": [
         "不公平的"
@@ -12444,8 +12470,8 @@
         "优雅的"
     ],
     "增加": [
-        "enhance",
-        "increase"
+        "increase",
+        "enhance"
     ],
     "为...带路": [
         "lead"
@@ -12493,8 +12519,8 @@
         "硫磺"
     ],
     "侦察": [
-        "scout",
-        "detect"
+        "detect",
+        "scout"
     ],
     "大喊": [
         "yell"
@@ -12545,8 +12571,8 @@
         "rot"
     ],
     "唤起": [
-        "arouse",
-        "rouse"
+        "rouse",
+        "arouse"
     ],
     "export": [
         "出口"
@@ -12830,8 +12856,8 @@
         "大多数"
     ],
     "proposal": [
-        "提议",
-        "求婚"
+        "求婚",
+        "提议"
     ],
     "strike": [
         "打"
@@ -12903,8 +12929,8 @@
         "spider"
     ],
     "rack": [
-        "折磨",
-        "行李架"
+        "行李架",
+        "折磨"
     ],
     "portion": [
         "一部分"
@@ -13076,6 +13102,7 @@
         "matter"
     ],
     "象征": [
+        "token",
         "symbol"
     ],
     "瞥见": [
@@ -13125,8 +13152,9 @@
         "自然界"
     ],
     "sauce": [
+        "调味汁",
         "给…调味",
-        "调味汁"
+        "酱汁"
     ],
     "仓促的": [
         "hasty"
@@ -13156,9 +13184,9 @@
         "yard"
     ],
     "mine": [
+        "开凿",
         "矿山",
-        "地雷",
-        "开凿"
+        "地雷"
     ],
     "赞扬": [
         "praise"
@@ -13204,8 +13232,8 @@
         "steel"
     ],
     "race": [
-        "竞赛",
-        "种族"
+        "种族",
+        "竞赛"
     ],
     "铁路": [
         "railway"
@@ -13343,6 +13371,7 @@
         "weed"
     ],
     "slum": [
+        "贫民区",
         "贫民窟"
     ],
     "牺牲": [
@@ -13389,8 +13418,8 @@
         "壮观的"
     ],
     "torrent": [
-        "奔流",
-        "汹涌的"
+        "汹涌的",
+        "奔流"
     ],
     "所谓的": [
         "so-called"
@@ -13483,8 +13512,8 @@
         "naked"
     ],
     "spin": [
-        "使旋转",
-        "纺织"
+        "纺织",
+        "使旋转"
     ],
     "pretty": [
         "标致的"
@@ -13508,7 +13537,8 @@
         "刺激"
     ],
     "货摊": [
-        "booth"
+        "booth",
+        "stall"
     ],
     "reinforce": [
         "加强"
@@ -13716,9 +13746,9 @@
         "执行的"
     ],
     "利用": [
-        "harness",
         "use",
-        "utilize"
+        "utilize",
+        "harness"
     ],
     "天堂": [
         "heaven"
@@ -13730,15 +13760,15 @@
         "write"
     ],
     "住处": [
-        "dwelling",
-        "accommodation"
+        "accommodation",
+        "dwelling"
     ],
     "王位": [
         "throne"
     ],
     "troop": [
-        "军队",
-        "结队"
+        "结队",
+        "军队"
     ],
     "河": [
         "river"
@@ -13783,9 +13813,9 @@
         "在别处"
     ],
     "揭露": [
-        "revelation",
+        "reveal",
         "uncover",
-        "reveal"
+        "revelation"
     ],
     "热忱": [
         "zeal"
@@ -13815,8 +13845,8 @@
         "叛徒"
     ],
     "聪明的": [
-        "intelligent",
-        "intellectual"
+        "intellectual",
+        "intelligent"
     ],
     "领土": [
         "territory"
@@ -13825,8 +13855,8 @@
         "新鲜的"
     ],
     "集合": [
-        "assembly",
-        "assemble"
+        "assemble",
+        "assembly"
     ],
     "召回": [
         "recall"
@@ -13877,8 +13907,8 @@
         "hell"
     ],
     "显而易见的": [
-        "obvious",
-        "noticeable"
+        "noticeable",
+        "obvious"
     ],
     "society": [
         "社会"
@@ -14013,15 +14043,15 @@
         "汽车"
     ],
     "发音": [
-        "pronunciation",
-        "pronounce"
+        "pronounce",
+        "pronunciation"
     ],
     "guest": [
         "客人"
     ],
     "理解力": [
-        "comprehension",
-        "understanding"
+        "understanding",
+        "comprehension"
     ],
     "expansion": [
         "扩大"
@@ -14069,8 +14099,8 @@
         "aluminium"
     ],
     "出口": [
-        "outlet",
-        "exit"
+        "exit",
+        "outlet"
     ],
     "fortunate": [
         "幸运的"
@@ -14133,8 +14163,8 @@
         "ambition"
     ],
     "才智": [
-        "wisdom",
-        "wit"
+        "wit",
+        "wisdom"
     ],
     "arrangement": [
         "布置"
@@ -14149,9 +14179,9 @@
         "saint"
     ],
     "slip": [
-        "滑行",
+        "疏漏",
         "犯错",
-        "疏漏"
+        "滑行"
     ],
     "scarcely": [
         "仅仅"
@@ -14260,7 +14290,8 @@
         "女房东"
     ],
     "tutor": [
-        "家庭教师"
+        "家庭教师",
+        "指导"
     ],
     "大学三年级学生": [
         "junior"
@@ -14288,8 +14319,8 @@
         "publication"
     ],
     "选举": [
-        "elect",
-        "election"
+        "election",
+        "elect"
     ],
     "bitter": [
         "苦涩的"
@@ -14402,8 +14433,8 @@
         "action"
     ],
     "产量": [
-        "output",
-        "production"
+        "production",
+        "output"
     ],
     "孤儿": [
         "orphan"
@@ -14497,8 +14528,8 @@
         "足够的"
     ],
     "resume": [
-        "重新开始",
-        "简历"
+        "简历",
+        "重新开始"
     ],
     "无用的": [
         "worthless",
@@ -14517,8 +14548,8 @@
         "钢铁"
     ],
     "刺激": [
-        "sting",
-        "stimulate"
+        "stimulate",
+        "sting"
     ],
     "活着的": [
         "alive"
@@ -14675,8 +14706,8 @@
         "objective"
     ],
     "gasp": [
-        "喘息",
-        "渴望"
+        "渴望",
+        "喘息"
     ],
     "bend": [
         "弯曲"
@@ -14722,6 +14753,7 @@
     ],
     "terrific": [
         "可怕的",
+        "极大的",
         "极好的"
     ],
     "mood": [
@@ -14793,8 +14825,8 @@
         "victory"
     ],
     "哀悼": [
-        "mourn",
-        "lament"
+        "lament",
+        "mourn"
     ],
     "一...(就)": [
         "immediately"
@@ -14906,8 +14938,8 @@
         "expect"
     ],
     "采取行动": [
-        "move",
-        "act"
+        "act",
+        "move"
     ],
     "worthy": [
         "值得的"
@@ -14937,8 +14969,8 @@
         "响应"
     ],
     "pipe": [
-        "吹奏",
-        "导管"
+        "导管",
+        "吹奏"
     ],
     "幻灯片": [
         "slide"
@@ -14980,8 +15012,8 @@
         "醋"
     ],
     "vice": [
-        "副的",
-        "恶习"
+        "恶习",
+        "副的"
     ],
     "大陆": [
         "continent",
@@ -15159,8 +15191,8 @@
         "attribute"
     ],
     "中间的": [
-        "middle",
-        "intermediate"
+        "intermediate",
+        "middle"
     ],
     "tub": [
         "浴缸"
@@ -15169,8 +15201,8 @@
         "葡萄牙"
     ],
     "rot": [
-        "腐烂",
-        "腐坏"
+        "腐坏",
+        "腐烂"
     ],
     "shilling": [
         "先令"
@@ -15328,8 +15360,8 @@
         "保护"
     ],
     "有帮助的": [
-        "helpful",
-        "instrumental"
+        "instrumental",
+        "helpful"
     ],
     "accordance": [
         "一致"
@@ -15380,7 +15412,8 @@
         "stair"
     ],
     "thirst": [
-        "口渴"
+        "口渴",
+        "渴望"
     ],
     "Portuguese": [
         "葡萄牙人"
@@ -15425,8 +15458,8 @@
         "赌金"
     ],
     "reap": [
-        "收获",
-        "收割"
+        "收割",
+        "收获"
     ],
     "可恨的": [
         "hateful"
@@ -15592,8 +15625,8 @@
         "偏见"
     ],
     "liner": [
-        "班机",
-        "班轮"
+        "班轮",
+        "班机"
     ],
     "轮廓": [
         "outline"
@@ -15632,8 +15665,8 @@
         "lid"
     ],
     "moderate": [
-        "使…缓和",
-        "稳健的"
+        "稳健的",
+        "使…缓和"
     ],
     "几乎没有(指数量或程度等)（名词）": [
         "little"
@@ -15687,11 +15720,12 @@
         "犹豫"
     ],
     "spectacle": [
+        "景象",
         "奇观"
     ],
     "trunk": [
-        "树干",
-        "皮箱"
+        "皮箱",
+        "树干"
     ],
     "理想": [
         "ideal"
@@ -15725,8 +15759,8 @@
         "缺乏的"
     ],
     "proportion": [
-        "比率",
-        "份额"
+        "份额",
+        "比率"
     ],
     "分担": [
         "share"
@@ -16083,10 +16117,10 @@
         "improve"
     ],
     "nasty": [
-        "令人作呕的",
+        "龌龊的",
         "可恶的",
         "淫猥的",
-        "龌龊的"
+        "令人作呕的"
     ],
     "(使)工业化": [
         "industrialize"
@@ -16206,15 +16240,15 @@
         "踝关节"
     ],
     "propose": [
-        "向…提议",
-        "求婚"
+        "求婚",
+        "向…提议"
     ],
     "shopkeeper": [
         "店主"
     ],
     "original": [
-        "原件",
-        "原始的"
+        "原始的",
+        "原件"
     ],
     "冲走，带走": [
         "sweep"
@@ -16239,8 +16273,8 @@
         "justice"
     ],
     "flood": [
-        "洪水",
-        "淹没"
+        "淹没",
+        "洪水"
     ],
     "oven": [
         "炉"
@@ -16291,8 +16325,8 @@
         "starve"
     ],
     "年长的": [
-        "senior",
-        "elder"
+        "elder",
+        "senior"
     ],
     "rake": [
         "耙子"
@@ -16445,7 +16479,8 @@
         "outcome"
     ],
     "saint": [
-        "圣徒"
+        "圣徒",
+        "基督教徒"
     ],
     "过滤": [
         "filter"
@@ -16482,8 +16517,8 @@
         "片断"
     ],
     "vacuum": [
-        "真空",
-        "真空的"
+        "真空的",
+        "真空"
     ],
     "track": [
         "路径"
@@ -16564,7 +16599,9 @@
         "束缚"
     ],
     "swamp": [
-        "沼泽"
+        "沼泽地",
+        "沼泽",
+        "湿地"
     ],
     "prevent": [
         "防止"
@@ -16609,8 +16646,8 @@
         "spear"
     ],
     "revenge": [
-        "报复",
-        "报仇"
+        "报仇",
+        "报复"
     ],
     "restrict": [
         "限制"
@@ -16654,8 +16691,8 @@
         "叫喊"
     ],
     "放射": [
-        "emit",
-        "radiation"
+        "radiation",
+        "emit"
     ],
     "兴趣": [
         "interest"
@@ -16679,8 +16716,8 @@
         "主要地"
     ],
     "nod": [
-        "点头",
-        "打盹"
+        "打盹",
+        "点头"
     ],
     "识别": [
         "recognition"
@@ -16746,8 +16783,8 @@
         "烟雾"
     ],
     "功绩": [
-        "merit",
-        "feat"
+        "feat",
+        "merit"
     ],
     "休假(名词)": [
         "leave"
@@ -16765,6 +16802,7 @@
         "图书馆员"
     ],
     "团结": [
+        "solidarity",
         "unity"
     ],
     "experimental": [
@@ -16975,8 +17013,9 @@
         "reverse"
     ],
     "闪耀": [
-        "twinkle",
-        "flare"
+        "flare",
+        "sparkle",
+        "twinkle"
     ],
     "彻底的": [
         "thorough"
@@ -17009,8 +17048,8 @@
         "卓越的"
     ],
     "解释": [
-        "interpretation",
-        "explanation"
+        "explanation",
+        "interpretation"
     ],
     "shock": [
         "冲击"
@@ -17049,6 +17088,7 @@
         "vain"
     ],
     "tumble": [
+        "打滚",
         "摔倒"
     ],
     "缓慢而行": [
@@ -17070,8 +17110,8 @@
         "毫米"
     ],
     "编织": [
-        "knit",
-        "weave"
+        "weave",
+        "knit"
     ],
     "祝酒词": [
         "toast"
@@ -17121,7 +17161,9 @@
         "usage"
     ],
     "trifle": [
-        "琐事"
+        "琐事",
+        "小事",
+        "少许"
     ],
     "小山，丘陵": [
         "hill"
@@ -17151,8 +17193,8 @@
         "insult"
     ],
     "模仿": [
-        "imitation",
-        "imitate"
+        "imitate",
+        "imitation"
     ],
     "有希望的": [
         "hopeful",
@@ -17226,8 +17268,8 @@
         "knee"
     ],
     "迁移": [
-        "migrate",
-        "transfer"
+        "transfer",
+        "migrate"
     ],
     "加上": [
         "plus"
@@ -17269,8 +17311,8 @@
         "理解力"
     ],
     "yield": [
-        "屈服",
-        "产量"
+        "产量",
+        "屈服"
     ],
     "致使，引起": [
         "occasion"
@@ -17565,8 +17607,8 @@
         "joy"
     ],
     "vine": [
-        "葡萄树",
-        "藤蔓"
+        "藤蔓",
+        "葡萄树"
     ],
     "侵占，占领": [
         "occupy"
@@ -17617,8 +17659,8 @@
         "最终"
     ],
     "结果": [
-        "consequence",
-        "result"
+        "result",
+        "consequence"
     ],
     "内部，内在": [
         "interior"
@@ -17643,8 +17685,8 @@
         "jet"
     ],
     "注射": [
-        "inject",
-        "injection"
+        "injection",
+        "inject"
     ],
     "Atlantic": [
         "大西洋的"
@@ -17656,14 +17698,15 @@
         "前进"
     ],
     "暂停": [
+        "suspension",
         "suspend"
     ],
     "sophisticated": [
         "老练的"
     ],
     "烘焙": [
-        "roast",
-        "bake"
+        "bake",
+        "roast"
     ],
     "vase": [
         "花瓶"
@@ -17675,7 +17718,8 @@
         "grade"
     ],
     "tick": [
-        "记号"
+        "记号",
+        "滴答声"
     ],
     "褪色": [
         "fade"
@@ -17801,8 +17845,8 @@
         "发展"
     ],
     "代替": [
-        "substitute",
-        "instead"
+        "instead",
+        "substitute"
     ],
     "把握": [
         "hold"
@@ -17974,8 +18018,8 @@
         "Jewish"
     ],
     "profession": [
-        "职业",
-        "业内"
+        "业内",
+        "职业"
     ],
     "可能地": [
         "possibly"
@@ -18038,14 +18082,15 @@
         "fond"
     ],
     "startle": [
+        "吃惊",
         "使…惊愕"
     ],
     "嫁、娶": [
         "marry"
     ],
     "神圣的": [
-        "holy",
-        "sacred"
+        "sacred",
+        "holy"
     ],
     "fate": [
         "命运"
@@ -18063,8 +18108,8 @@
         "小屋"
     ],
     "masterpiece": [
-        "杰作",
-        "名著"
+        "名著",
+        "杰作"
     ],
     "输入": [
         "input"
@@ -18112,8 +18157,8 @@
         "气温"
     ],
     "spur": [
-        "鞭策",
-        "激励"
+        "激励",
+        "鞭策"
     ],
     "喃喃自语": [
         "mutter"
@@ -18179,9 +18224,9 @@
         "top"
     ],
     "点燃": [
+        "ignite",
         "kindle",
-        "light",
-        "ignite"
+        "light"
     ],
     "陡峭的": [
         "steep"
@@ -18196,8 +18241,8 @@
         "retire"
     ],
     "odd": [
-        "奇数的",
-        "古怪的"
+        "古怪的",
+        "奇数的"
     ],
     "焦虑": [
         "anxiety"
@@ -18257,6 +18302,7 @@
         "forever"
     ],
     "一针": [
+        "stich",
         "stitch"
     ],
     "盛宴": [
@@ -18324,8 +18370,8 @@
         "限制"
     ],
     "版本": [
-        "version",
-        "edition"
+        "edition",
+        "version"
     ],
     "blanket": [
         "毛毯"
@@ -18497,6 +18543,7 @@
         "academic"
     ],
     "惊人的": [
+        "spectacular",
         "tremendous"
     ],
     "奖赏": [
@@ -18590,8 +18637,8 @@
         "纯净"
     ],
     "主持": [
-        "host",
-        "preside"
+        "preside",
+        "host"
     ],
     "清醒的": [
         "sober"
@@ -18631,6 +18678,7 @@
         "idiom"
     ],
     "交易": [
+        "transaction",
         "trade"
     ],
     "internal": [
@@ -18951,8 +18999,8 @@
         "leg"
     ],
     "惊恐": [
-        "scare",
-        "horror"
+        "horror",
+        "scare"
     ],
     "抛弃": [
         "abandon"
@@ -19006,8 +19054,8 @@
         "exception"
     ],
     "金属的": [
-        "metallic",
-        "metal"
+        "metal",
+        "metallic"
     ],
     "literature": [
         "文献"
@@ -19242,8 +19290,8 @@
         "embroidery"
     ],
     "极好的": [
-        "fantastic",
-        "terrific"
+        "terrific",
+        "fantastic"
     ],
     "仙界": [
         "fairyland"
@@ -19258,9 +19306,9 @@
         "formulate"
     ],
     "激怒": [
-        "enrage",
+        "provoke",
         "irritate",
-        "provoke"
+        "enrage"
     ],
     "delicate": [
         "精美的"
@@ -19580,8 +19628,8 @@
         "submerge"
     ],
     "coast": [
-        "滑行",
-        "海岸"
+        "海岸",
+        "滑行"
     ],
     "爆发": [
         "erupt"
@@ -19681,8 +19729,8 @@
         "勤奋的"
     ],
     "channel": [
-        "渠道",
-        "引导"
+        "引导",
+        "渠道"
     ],
     "委任（状）": [
         "commission"
@@ -19706,8 +19754,8 @@
         "circumference"
     ],
     "征服": [
-        "conquest",
-        "conquer"
+        "conquer",
+        "conquest"
     ],
     "可怕的，难对付的": [
         "formidable"
@@ -19803,8 +19851,8 @@
         "ferry"
     ],
     "chief": [
-        "首领",
-        "首席的"
+        "首席的",
+        "首领"
     ],
     "古典的": [
         "classical"
@@ -20022,8 +20070,8 @@
         "ethics"
     ],
     "disguise": [
-        "伪装",
-        "隐瞒"
+        "隐瞒",
+        "伪装"
     ],
     "喷射": [
         "eject"
@@ -20074,8 +20122,8 @@
         "candle"
     ],
     "clear": [
-        "清除",
-        "清晰的"
+        "清晰的",
+        "清除"
     ],
     "cheer": [
         "使振奋"
@@ -20180,8 +20228,8 @@
         "chalk"
     ],
     "claw": [
-        "抓，撕",
-        "爪，钳"
+        "爪，钳",
+        "抓，撕"
     ],
     "curtain": [
         "遮蔽"
@@ -20211,8 +20259,8 @@
         "dissatisfy"
     ],
     "compass": [
-        "包围",
-        "罗盘"
+        "罗盘",
+        "包围"
     ],
     "cheat": [
         "欺骗"
@@ -20245,8 +20293,8 @@
         "对白"
     ],
     "ditch": [
-        "摆脱",
-        "渠道"
+        "渠道",
+        "摆脱"
     ],
     "certainty": [
         "必然"
@@ -20297,8 +20345,8 @@
         "corner"
     ],
     "choice": [
-        "精选的",
-        "选择"
+        "选择",
+        "精选的"
     ],
     "使混乱": [
         "confuse"
@@ -20382,6 +20430,7 @@
         "分类"
     ],
     "credit": [
+        "学分",
         "称赞"
     ],
     "失踪": [
@@ -20442,8 +20491,8 @@
         "香烟"
     ],
     "close": [
-        "亲近的",
-        "关闭"
+        "关闭",
+        "亲近的"
     ],
     "cassette": [
         "录音带"
@@ -20455,8 +20504,8 @@
         "鸭肉"
     ],
     "coach": [
-        "训练",
-        "大巴"
+        "大巴",
+        "训练"
     ],
     "container": [
         "容器"
@@ -20647,16 +20696,16 @@
         "canon"
     ],
     "draft": [
-        "草稿",
-        "起草"
+        "起草",
+        "草稿"
     ],
     "压缩": [
         "condense",
         "compress"
     ],
     "clap": [
-        "轻拍",
-        "拍手"
+        "拍手",
+        "轻拍"
     ],
     "不同意": [
         "disagree"
@@ -20850,12 +20899,12 @@
         "考虑"
     ],
     "否则": [
-        "otherwise",
-        "or"
+        "or",
+        "otherwise"
     ],
     "欺骗": [
-        "deceive",
-        "cheat"
+        "cheat",
+        "deceive"
     ],
     "decision": [
         "决心"
@@ -21141,8 +21190,8 @@
         "组成"
     ],
     "conduct": [
-        "指挥",
-        "举止"
+        "举止",
+        "指挥"
     ],
     "clerk": [
         "职员"
@@ -21190,8 +21239,8 @@
         "stretch"
     ],
     "监禁": [
-        "gaol",
-        "jail"
+        "jail",
+        "gaol"
     ],
     "captive": [
         "俘虏"
@@ -21871,6 +21920,7 @@
         "疯狂的"
     ],
     "toss": [
+        "翻来覆去",
         "掷"
     ],
     "共产党员": [
@@ -21898,6 +21948,7 @@
         "使泄气"
     ],
     "turbulent": [
+        "骚乱的",
         "骚动的"
     ],
     "construct": [
@@ -21970,8 +22021,8 @@
         "drift"
     ],
     "水泥": [
-        "cement",
-        "concrete"
+        "concrete",
+        "cement"
     ],
     "文件": [
         "document"
@@ -22025,8 +22076,8 @@
         "共产党员"
     ],
     "分开": [
-        "partition",
-        "divide"
+        "divide",
+        "partition"
     ],
     "confuse": [
         "混淆"
@@ -22086,6 +22137,7 @@
         "村舍"
     ],
     "可疑的": [
+        "suspicious",
         "doubtful"
     ],
     "create": [
@@ -22182,7 +22234,8 @@
         "integrate"
     ],
     "讽刺": [
-        "irony"
+        "irony",
+        "satire"
     ],
     "赌博": [
         "gamble"
@@ -22823,8 +22876,8 @@
         "解雇"
     ],
     "悲伤": [
-        "distress",
-        "sorrow"
+        "sorrow",
+        "distress"
     ],
     "cupboard": [
         "碗柜"
@@ -22977,8 +23030,8 @@
         "裸露的"
     ],
     "arbitrary": [
-        "任意的",
-        "武断的"
+        "武断的",
+        "任意的"
     ],
     "同志": [
         "comrade"
@@ -23250,8 +23303,8 @@
         "误导"
     ],
     "决定": [
-        "determine",
-        "decision"
+        "decision",
+        "determine"
     ],
     "dairy": [
         "乳制品"
@@ -23377,9 +23430,9 @@
         "marshal"
     ],
     "mediate": [
+        "间接的",
         "调停",
-        "斡旋",
-        "间接的"
+        "斡旋"
     ],
     "（以不公正的方式）做出评价": [
         "judge"
@@ -23394,9 +23447,9 @@
         "斗志昂扬的"
     ],
     "magnitude": [
-        "重大",
+        "大小",
         "量级",
-        "大小"
+        "重大"
     ],
     "门厅": [
         "lobby"
@@ -23433,12 +23486,12 @@
         "jungle"
     ],
     "myth": [
-        "虚构的人",
-        "虚构的事"
+        "虚构的事",
+        "虚构的人"
     ],
     "melody": [
-        "曲调",
-        "歌曲"
+        "歌曲",
+        "曲调"
     ],
     "骑士": [
         "knight"
@@ -23447,8 +23500,8 @@
         "mortal"
     ],
     "misfortune": [
-        "灾祸",
-        "灾难"
+        "灾难",
+        "灾祸"
     ],
     "legislation": [
         "法规"
@@ -23485,8 +23538,8 @@
         "legislation"
     ],
     "legitimate": [
-        "使合法",
-        "正当的"
+        "正当的",
+        "使合法"
     ],
     "不守法的，不受法律控制的": [
         "lawless"
@@ -23495,9 +23548,9 @@
         "midst"
     ],
     "majesty": [
-        "威严",
         "陛下",
-        "尊严"
+        "尊严",
+        "威严"
     ],
     "废旧杂物": [
         "junk"
@@ -23509,8 +23562,8 @@
         "金属粒子"
     ],
     "limp": [
-        "跛行",
-        "蹒跚"
+        "蹒跚",
+        "跛行"
     ],
     "monopoly": [
         "垄断",
@@ -23539,8 +23592,8 @@
         "mobilize"
     ],
     "misery": [
-        "痛苦",
-        "不幸"
+        "不幸",
+        "痛苦"
     ],
     "大都会的": [
         "metropolitan"
@@ -23549,8 +23602,8 @@
         "mannered"
     ],
     "magnify": [
-        "扩大",
-        "放大"
+        "放大",
+        "扩大"
     ],
     "巨大，重量": [
         "magnitude"
@@ -23589,12 +23642,12 @@
         "maneuver"
     ],
     "manipulate": [
-        "手持",
-        "控制"
+        "控制",
+        "手持"
     ],
     "morality": [
-        "美德",
-        "品行"
+        "品行",
+        "美德"
     ],
     "慷慨地给予": [
         "lavish"
@@ -23709,8 +23762,8 @@
         "表明"
     ],
     "manuscript": [
-        "底稿",
-        "原稿"
+        "原稿",
+        "底稿"
     ],
     "大批，大量": [
         "multitude"
@@ -23818,6 +23871,7 @@
         "longititude"
     ],
     "蹒跚": [
+        "stagger",
         "lime"
     ],
     "轻声低语，抱怨": [
@@ -23905,8 +23959,8 @@
         "discipline"
     ],
     "方向": [
-        "orientation",
-        "direction"
+        "direction",
+        "orientation"
     ],
     "间隔": [
         "interval"
@@ -24045,8 +24099,8 @@
         "productive"
     ],
     "postulate": [
-        "假设",
-        "假定"
+        "假定",
+        "假设"
     ],
     "predominant": [
         "主要的"
@@ -24055,8 +24109,8 @@
         "obligation"
     ],
     "paralyze": [
-        "使麻痹",
-        "使瘫痪"
+        "使瘫痪",
+        "使麻痹"
     ],
     "预习": [
         "preview"
@@ -24066,8 +24120,8 @@
         "远东"
     ],
     "portray": [
-        "描写",
-        "描写...的肖像"
+        "描写...的肖像",
+        "描写"
     ],
     "参加者": [
         "participant"
@@ -24114,12 +24168,12 @@
         "天灾"
     ],
     "panic": [
-        "惊慌",
-        "恐慌"
+        "恐慌",
+        "惊慌"
     ],
     "notify": [
-        "告知",
-        "报告"
+        "报告",
+        "告知"
     ],
     "东方": [
         "orient"
@@ -24145,8 +24199,8 @@
         "perpetual"
     ],
     "provocative": [
-        "刺激的",
-        "挑逗的"
+        "挑逗的",
+        "刺激的"
     ],
     "威望": [
         "prestige"
@@ -24162,9 +24216,9 @@
         "pave"
     ],
     "oath": [
-        "誓约",
+        "宣誓",
         "誓言",
-        "宣誓"
+        "誓约"
     ],
     "踏板": [
         "pedal"
@@ -24194,8 +24248,8 @@
         "polar"
     ],
     "parameter": [
-        "参量",
-        "参数"
+        "参数",
+        "参量"
     ],
     "戳，刺": [
         "poke"
@@ -24221,8 +24275,8 @@
         "铺，筑（路）"
     ],
     "partition": [
-        "分开",
         "分割",
+        "分开",
         "融墙"
     ],
     "pedal": [
@@ -24251,8 +24305,8 @@
     ],
     "naive": [
         "纯真的",
-        "朴素的",
-        "天真的"
+        "天真的",
+        "朴素的"
     ],
     "生产率": [
         "productivity"
@@ -24270,8 +24324,8 @@
         "optimum"
     ],
     "obedient": [
-        "顺从的",
-        "服从的"
+        "服从的",
+        "顺从的"
     ],
     "海报": [
         "poster"
@@ -24323,8 +24377,8 @@
         "notorious"
     ],
     "optimism": [
-        "乐观主义",
-        "乐观"
+        "乐观",
+        "乐观主义"
     ],
     "令人怜惜的": [
         "pathetic"
@@ -24339,8 +24393,8 @@
         "neighborly"
     ],
     "notion": [
-        "意念",
-        "看法"
+        "看法",
+        "意念"
     ],
     "氧化物": [
         "oxide"
@@ -24367,9 +24421,9 @@
         "养育"
     ],
     "permeate": [
-        "渗透",
         "透入",
-        "充满"
+        "充满",
+        "渗透"
     ],
     "patent": [
         "专利权",
@@ -24401,10 +24455,10 @@
         "persistent"
     ],
     "narrative": [
-        "故事",
-        "叙述",
         "叙事的",
-        "叙述的"
+        "故事",
+        "叙述的",
+        "叙述"
     ],
     "premature": [
         "过早的"
@@ -24466,9 +24520,9 @@
         "器量小的"
     ],
     "offspring": [
+        "后代",
         "儿女",
-        "子孙",
-        "后代"
+        "子孙"
     ],
     "恳求": [
         "plea"
@@ -24532,8 +24586,8 @@
         "negotiate"
     ],
     "presentation": [
-        "颁奖仪式",
-        "呈现"
+        "呈现",
+        "颁奖仪式"
     ],
     "部分的": [
         "partial"
@@ -24619,8 +24673,8 @@
         "工艺"
     ],
     "perish": [
-        "夭折",
-        "枯萎"
+        "枯萎",
+        "夭折"
     ],
     "obscene": [
         "猥亵的",
@@ -24672,15 +24726,15 @@
         "priest"
     ],
     "perfume": [
-        "芳香",
-        "香料"
+        "香料",
+        "芳香"
     ],
     "假设，揣测": [
         "presume"
     ],
     "探索": [
-        "probe",
-        "quest"
+        "quest",
+        "probe"
     ],
     "民主的": [
         "democratic"
@@ -24735,8 +24789,8 @@
         "permissible"
     ],
     "notation": [
-        "表示法",
-        "注释"
+        "注释",
+        "表示法"
     ],
     "高原": [
         "plateau"
@@ -24746,8 +24800,8 @@
         "传略"
     ],
     "obscure": [
-        "阴暗的",
-        "蒙昧的"
+        "蒙昧的",
+        "阴暗的"
     ],
     "抚恤款": [
         "pension"
@@ -24867,8 +24921,8 @@
         "怨恨"
     ],
     "ritual": [
-        "例行公事的",
-        "仪式"
+        "仪式",
+        "例行公事的"
     ],
     "renaissance": [
         "复活"
@@ -24887,12 +24941,12 @@
         "忍住"
     ],
     "recur": [
-        "再发生",
-        "复发"
+        "复发",
+        "再发生"
     ],
     "recruit": [
-        "新成员",
-        "招收"
+        "招收",
+        "新成员"
     ],
     "（对新思想或他人意见）乐于接受的": [
         "receptive"
@@ -24916,8 +24970,8 @@
         "征求意见表"
     ],
     "qualification": [
-        "限制条件",
-        "资格"
+        "资格",
+        "限制条件"
     ],
     "残留部分": [
         "remnant"
@@ -24929,8 +24983,8 @@
         "recipient"
     ],
     "rip": [
-        "划破；撕坏",
-        "撕碎"
+        "撕碎",
+        "划破；撕坏"
     ],
     "expand": [
         "扩张"
@@ -24964,8 +25018,8 @@
         "reside"
     ],
     "royalty": [
-        "皇族",
-        "王族"
+        "王族",
+        "皇族"
     ],
     "复发，再次发生": [
         "recur"
@@ -25014,8 +25068,8 @@
         "quiver"
     ],
     "rim": [
-        "（眼镜）框",
-        "边"
+        "边",
+        "（眼镜）框"
     ],
     "quantify": [
         "确定...的数量"
@@ -25062,8 +25116,8 @@
         "复兴"
     ],
     "redundant": [
-        "过多的",
-        "冗长的"
+        "冗长的",
+        "过多的"
     ],
     "对...不满": [
         "resent"
@@ -25072,15 +25126,15 @@
         "interpreter"
     ],
     "robust": [
-        "坚定的",
-        "粗野的"
+        "粗野的",
+        "坚定的"
     ],
     "rectangular": [
         "成直角的"
     ],
     "remnant": [
-        "遗迹",
-        "残留部分"
+        "残留部分",
+        "遗迹"
     ],
     "（性格等）严峻的": [
         "rigorous"
@@ -25119,8 +25173,8 @@
         "retrieve"
     ],
     "retrieve": [
-        "挽回",
-        "检索"
+        "检索",
+        "挽回"
     ],
     "鲁莽的": [
         "reckless"
@@ -25239,5 +25293,1048 @@
     ],
     "分程传递": [
         "relay"
+    ],
+    "异乎寻常的": [
+        "terrific"
+    ],
+    "testimony": [
+        "证言",
+        "证据",
+        "证明；声明"
+    ],
+    "努力，奋发": [
+        "strive"
+    ],
+    "tragic": [
+        "悲惨的",
+        "悲剧性的"
+    ],
+    "sculpture": [
+        "雕塑"
+    ],
+    "tolerant": [
+        "有耐力的",
+        "容忍的"
+    ],
+    "sue": [
+        "控告",
+        "请愿；请求"
+    ],
+    "具有独立自主权的": [
+        "sovereign"
+    ],
+    "slot": [
+        "硬币投币口",
+        "狭槽"
+    ],
+    "保护措施": [
+        "safeguard"
+    ],
+    "补助金": [
+        "subsidy"
+    ],
+    "药片": [
+        "tablet"
+    ],
+    "surpass": [
+        "超越",
+        "超过"
+    ],
+    "soar": [
+        "高耸",
+        "高飞",
+        "剧增"
+    ],
+    "猛增": [
+        "soar"
+    ],
+    "范围，光谱": [
+        "spectrum"
+    ],
+    "补充的": [
+        "supplementary"
+    ],
+    "性别的": [
+        "sexual"
+    ],
+    "手稿，脚本": [
+        "script"
+    ],
+    "thanksgiving": [
+        "感恩节"
+    ],
+    "synthesis": [
+        "综合物",
+        "综合",
+        "合成"
+    ],
+    "tease": [
+        "强求",
+        "逗乐",
+        "戏弄"
+    ],
+    "terrain": [
+        "范围",
+        "领域",
+        "地带"
+    ],
+    "掌掴": [
+        "slap"
+    ],
+    "表面上，外表上": [
+        "seemingly"
+    ],
+    "幸存": [
+        "survival"
+    ],
+    "小提箱，衣箱": [
+        "suitcase"
+    ],
+    "script": [
+        "剧本",
+        "字母表",
+        "手迹"
+    ],
+    "空间的": [
+        "spatial"
+    ],
+    "骚乱的": [
+        "turbulent"
+    ],
+    "temperament": [
+        "气质",
+        "性质",
+        "性情"
+    ],
+    "琐碎的": [
+        "trivial"
+    ],
+    "激动，恐惧": [
+        "thrill"
+    ],
+    "对称": [
+        "symmetry"
+    ],
+    "剧情概要": [
+        "scenario"
+    ],
+    "自发的，本能的": [
+        "spontaneous"
+    ],
+    "sanction": [
+        "批准；认可",
+        "制裁"
+    ],
+    "贫民窑": [
+        "slum"
+    ],
+    "酒会，座谈会": [
+        "symposium"
+    ],
+    "tempo": [
+        "拍子",
+        "速率",
+        "节奏"
+    ],
+    "滴答": [
+        "tick"
+    ],
+    "snack": [
+        "快餐"
+    ],
+    "shatter": [
+        "破碎"
+    ],
+    "tile": [
+        "贴砖",
+        "瓦片"
+    ],
+    "transition": [
+        "过渡",
+        "转变"
+    ],
+    "超声的": [
+        "supersonic"
+    ],
+    "subsidy": [
+        "津贴",
+        "补助金"
+    ],
+    "tilt": [
+        "使倾斜"
+    ],
+    "transcend": [
+        "超越",
+        "胜过"
+    ],
+    "terminate": [
+        "终止"
+    ],
+    "雕塑": [
+        "sculpture"
+    ],
+    "专业，特长": [
+        "speciality"
+    ],
+    "使稳定": [
+        "stabilize"
+    ],
+    "营业额": [
+        "turnover"
+    ],
+    "精明的": [
+        "shrewd"
+    ],
+    "切片，部分": [
+        "segment"
+    ],
+    "savage": [
+        "野蛮的",
+        "野蛮人",
+        "残暴的",
+        "未开发的"
+    ],
+    "skeleton": [
+        "骷髅",
+        "骨架"
+    ],
+    "tug": [
+        "用力拖",
+        "猛拉"
+    ],
+    "大片土地": [
+        "tract"
+    ],
+    "试探性的": [
+        "tentative"
+    ],
+    "三倍": [
+        "triple"
+    ],
+    "悲惨的": [
+        "tragic"
+    ],
+    "地形，地势": [
+        "terrain"
+    ],
+    "给人快感的": [
+        "sensuous"
+    ],
+    "容忍的": [
+        "tolerant"
+    ],
+    "足够，有能力": [
+        "suffice"
+    ],
+    "summit": [
+        "极度",
+        "顶点",
+        "最高点"
+    ],
+    "横越": [
+        "traverse"
+    ],
+    "suitcase": [
+        "衣箱",
+        "小提箱"
+    ],
+    "同时的": [
+        "simultaneous"
+    ],
+    "使浸透": [
+        "saturate"
+    ],
+    "纯粹的，完全的": [
+        "sheer"
+    ],
+    "susceptible": [
+        "易感动的",
+        "易受影响的"
+    ],
+    "timely": [
+        "及时的",
+        "适时的"
+    ],
+    "凉鞋": [
+        "sandal"
+    ],
+    "百叶窗": [
+        "shutter"
+    ],
+    "triple": [
+        "使增至三倍",
+        "三倍的"
+    ],
+    "怀疑的": [
+        "skeptical"
+    ],
+    "兜售": [
+        "tout"
+    ],
+    "（工具的)柄，杆状物": [
+        "shaft"
+    ],
+    "主观的，个人的": [
+        "subjective"
+    ],
+    "supplementary": [
+        "补充的",
+        "追加的",
+        "增补的"
+    ],
+    "抢夺，掠取": [
+        "snatch"
+    ],
+    "stubborn": [
+        "顽强的"
+    ],
+    "仔细检查，监视": [
+        "scrutiny"
+    ],
+    "terrace": [
+        "平台"
+    ],
+    "segregate": [
+        "使分离",
+        "被隔离的"
+    ],
+    "优越性": [
+        "superiority"
+    ],
+    "镇压，制服": [
+        "subdue"
+    ],
+    "trigger": [
+        "触发",
+        "扳机"
+    ],
+    "静止不动的": [
+        "stationary"
+    ],
+    "指导，教": [
+        "tutor"
+    ],
+    "关税": [
+        "tariff"
+    ],
+    "tackle": [
+        "对付",
+        "解决",
+        "用具"
+    ],
+    "survival": [
+        "幸存",
+        "幸存者",
+        "残存"
+    ],
+    "自杀": [
+        "suicide"
+    ],
+    "立体声": [
+        "stereo"
+    ],
+    "圣徒": [
+        "saint"
+    ],
+    "slaughter": [
+        "屠宰"
+    ],
+    "symptom": [
+        "症状",
+        "征候",
+        "征兆"
+    ],
+    "缝，狭槽": [
+        "slot"
+    ],
+    "盗贼": [
+        "thief"
+    ],
+    "研讨会": [
+        "seminar"
+    ],
+    "segment": [
+        "段，节"
+    ],
+    "刺激，激励": [
+        "stimulus"
+    ],
+    "骨架": [
+        "skeleton"
+    ],
+    "参议员": [
+        "senator"
+    ],
+    "slack": [
+        "使松弛"
+    ],
+    "交响乐": [
+        "symphony"
+    ],
+    "transplant": [
+        "移植"
+    ],
+    "skip": [
+        "跳"
+    ],
+    "症状": [
+        "symptom"
+    ],
+    "threshold": [
+        "开端",
+        "门槛",
+        "入门"
+    ],
+    "小吃": [
+        "snack"
+    ],
+    "tangle": [
+        "使缠结",
+        "使纠缠"
+    ],
+    "溅泼": [
+        "splash"
+    ],
+    "宽敞的": [
+        "spacious"
+    ],
+    "theft": [
+        "盗窃",
+        "偷窃（行为）"
+    ],
+    "拍子": [
+        "tempo"
+    ],
+    "successor": [
+        "继承人",
+        "继任者"
+    ],
+    "trait": [
+        "特征",
+        "显著特点"
+    ],
+    "thesis": [
+        "论文"
+    ],
+    "辅助的，补充的": [
+        "subsidiary"
+    ],
+    "位于...的": [
+        "situated"
+    ],
+    "标语，口号": [
+        "slogan"
+    ],
+    "证书": [
+        "certificate"
+    ],
+    "strive": [
+        "奋斗",
+        "力求"
+    ],
+    "装货": [
+        "shipment"
+    ],
+    "船尾": [
+        "stern"
+    ],
+    "stall": [
+        "书摊"
+    ],
+    "sexual": [
+        "性别的"
+    ],
+    "使恐怖": [
+        "terrify"
+    ],
+    "seam": [
+        "骨缝",
+        "接缝"
+    ],
+    "transient": [
+        "转瞬即逝的",
+        "短暂的",
+        "暂住的"
+    ],
+    "犯错误": [
+        "stumble"
+    ],
+    "suspicious": [
+        "可疑的",
+        "猜疑的"
+    ],
+    "sector": [
+        "部门",
+        "扇形"
+    ],
+    "suffice": [
+        "足够"
+    ],
+    "顽固的": [
+        "stubborn"
+    ],
+    "stereotype": [
+        "老套"
+    ],
+    "丑事，丑闻": [
+        "scandal"
+    ],
+    "治疗": [
+        "therapy"
+    ],
+    "supervise": [
+        "监督",
+        "监视"
+    ],
+    "tract": [
+        "小册子",
+        "大片（土地或森林)",
+        "传单"
+    ],
+    "扇形": [
+        "sector"
+    ],
+    "supersonic": [
+        "超声的",
+        "超声速的"
+    ],
+    "tactics": [
+        "战术"
+    ],
+    "气味，嗅迹": [
+        "scent"
+    ],
+    "受惊吓的": [
+        "scared"
+    ],
+    "此后": [
+        "thereafter"
+    ],
+    "佃户": [
+        "tenant"
+    ],
+    "神志正常": [
+        "sanity"
+    ],
+    "strategic": [
+        "战略上的"
+    ],
+    "surplus": [
+        "过剩",
+        "剩余（物资）"
+    ],
+    "梭子": [
+        "shuttle"
+    ],
+    "simulate": [
+        "模拟",
+        "假装"
+    ],
+    "制裁": [
+        "sanction"
+    ],
+    "门槛": [
+        "threshold"
+    ],
+    "tar": [
+        "焦油"
+    ],
+    "运输": [
+        "transit"
+    ],
+    "偏袒": [
+        "tilt"
+    ],
+    "战壕": [
+        "trench"
+    ],
+    "特性": [
+        "trait"
+    ],
+    "suspension": [
+        "中止",
+        "暂停",
+        "悬挂"
+    ],
+    "热的，温泉的": [
+        "thermal"
+    ],
+    "token": [
+        "辅币；代币",
+        "象征"
+    ],
+    "绞刑架": [
+        "scaffold"
+    ],
+    "scrutiny": [
+        "仔细检查",
+        "监视"
+    ],
+    "surge": [
+        "澎湃",
+        "奔涌向前",
+        "激增",
+        "汹涌"
+    ],
+    "坦率地": [
+        "straightforward"
+    ],
+    "sensation": [
+        "知觉",
+        "轰动"
+    ],
+    "tribute": [
+        "贡物",
+        "贡献"
+    ],
+    "贡献，献礼": [
+        "tribute"
+    ],
+    "刻板印象": [
+        "stereotype"
+    ],
+    "smuggle": [
+        "私运"
+    ],
+    "间谍": [
+        "spy"
+    ],
+    "suicide": [
+        "自杀"
+    ],
+    "苗条的，微小的": [
+        "slim"
+    ],
+    "猛咬，突然折断": [
+        "snap"
+    ],
+    "saturate": [
+        "使饱和",
+        "使浸透",
+        "使充满"
+    ],
+    "烧焦": [
+        "scorch"
+    ],
+    "下属的，下级的": [
+        "subordinate"
+    ],
+    "subjective": [
+        "个人的"
+    ],
+    "屠杀": [
+        "slaughter"
+    ],
+    "柏油，沥青": [
+        "tar"
+    ],
+    "继承人": [
+        "successor"
+    ],
+    "thermal": [
+        "热的",
+        "温泉的"
+    ],
+    "不能生育的": [
+        "sterile"
+    ],
+    "微妙的": [
+        "subtle"
+    ],
+    "触发": [
+        "trigger"
+    ],
+    "suppress": [
+        "镇压",
+        "抑制",
+        "隐瞒"
+    ],
+    "shaft": [
+        "柄"
+    ],
+    "skeptical": [
+        "多疑的"
+    ],
+    "转变，转折": [
+        "transition"
+    ],
+    "spiral": [
+        "盘旋的"
+    ],
+    "spectator": [
+        "参观者"
+    ],
+    "steamline": [
+        "流线"
+    ],
+    "腔调": [
+        "tone"
+    ],
+    "使缠结": [
+        "mingle"
+    ],
+    "轰动": [
+        "sensation"
+    ],
+    "高耸的": [
+        "towering"
+    ],
+    "奇观": [
+        "spectacle"
+    ],
+    "therapy": [
+        "治疗"
+    ],
+    "stationary": [
+        "静止不动的"
+    ],
+    "theme": [
+        "题目",
+        "主旋律"
+    ],
+    "缝口，接缝": [
+        "seam"
+    ],
+    "过剩，剩余（物资）": [
+        "surplus"
+    ],
+    "镇压": [
+        "suppress"
+    ],
+    "shipment": [
+        "装货"
+    ],
+    "tow": [
+        "牵引",
+        "拖引"
+    ],
+    "symmetry": [
+        "匀称",
+        "对称性"
+    ],
+    "superb": [
+        "壮丽的",
+        "超等的"
+    ],
+    "琐事": [
+        "trifle"
+    ],
+    "cooperate": [
+        "合作"
+    ],
+    "订购": [
+        "subscribe"
+    ],
+    "耸肩": [
+        "shrug"
+    ],
+    "thereafter": [
+        "从此"
+    ],
+    "stabilize": [
+        "安定",
+        "稳定",
+        "使坚固"
+    ],
+    "statistics": [
+        "统计"
+    ],
+    "dusk": [
+        "黄昏"
+    ],
+    "superiority": [
+        "优势"
+    ],
+    "tariff": [
+        "关税",
+        "收费表；价格表"
+    ],
+    "硅": [
+        "silicon"
+    ],
+    "易受影响的": [
+        "susceptible"
+    ],
+    "分离，隔离": [
+        "segregate"
+    ],
+    "感恩节": [
+        "Thanksgiving"
+    ],
+    "specification": [
+        "详述"
+    ],
+    "热力的": [
+        "thermal"
+    ],
+    "螺旋的，盘旋的": [
+        "spiral"
+    ],
+    "studio": [
+        "播音室"
+    ],
+    "讥讽": [
+        "sarcasm"
+    ],
+    "跳过": [
+        "skip"
+    ],
+    "主题": [
+        "theme"
+    ],
+    "粉碎": [
+        "smash",
+        "shatter"
+    ],
+    "机敏的": [
+        "tactful"
+    ],
+    "signify": [
+        "表示"
+    ],
+    "subscribe": [
+        "认购"
+    ],
+    "旁观者": [
+        "spectator"
+    ],
+    "社会学": [
+        "sociology"
+    ],
+    "solitary": [
+        "独居的"
+    ],
+    "shrewd": [
+        "机灵的",
+        "敏锐的"
+    ],
+    "松弛的，拖沓的": [
+        "slack"
+    ],
+    "统计": [
+        "statistics"
+    ],
+    "solo": [
+        "独唱"
+    ],
+    "sheer": [
+        "全然的"
+    ],
+    "trivial": [
+        "琐碎的",
+        "平常的"
+    ],
+    "激增": [
+        "surge"
+    ],
+    "表示，意味着": [
+        "signify"
+    ],
+    "turnover": [
+        "人员流动；人员调整"
+    ],
+    "testify": [
+        "证明"
+    ],
+    "shabby": [
+        "破旧的"
+    ],
+    "工作室": [
+        "studio"
+    ],
+    "移植": [
+        "transplant"
+    ],
+    "特征，标记": [
+        "trademark"
+    ],
+    "snatch": [
+        "夺取",
+        "抢夺"
+    ],
+    "逗乐，戏弄": [
+        "tease"
+    ],
+    "证言": [
+        "testimony"
+    ],
+    "平台，阳台": [
+        "terrace"
+    ],
+    "trench": [
+        "战壕"
+    ],
+    "code": [
+        "密码"
+    ],
+    "summon": [
+        "召唤",
+        "鼓起（勇气）"
+    ],
+    "疤痕": [
+        "scar"
+    ],
+    "壮丽的，杰出的": [
+        "superb"
+    ],
+    "safeguard": [
+        "保护措施"
+    ],
+    "男乘务员": [
+        "steward"
+    ],
+    "大步走": [
+        "stride"
+    ],
+    "scrap": [
+        "废料"
+    ],
+    "物种": [
+        "species"
+    ],
+    "scandal": [
+        "丑事",
+        "耻辱"
+    ],
+    "净化": [
+        "sanitize"
+    ],
+    "tentative": [
+        "暂时的",
+        "试验性的"
+    ],
+    "轻蔑，鄙视": [
+        "scorn"
+    ],
+    "subsidiary": [
+        "补充的"
+    ],
+    "stereo": [
+        "立体声的"
+    ],
+    "senator": [
+        "评议员"
+    ],
+    "玉米": [
+        "corn"
+    ],
+    "论文": [
+        "thesis"
+    ],
+    "terrify": [
+        "使恐怖"
+    ],
+    "symposium": [
+        "酒会"
+    ],
+    "献殷勤，追求": [
+        "court"
+    ],
+    "species": [
+        "种类"
+    ],
+    "seminar": [
+        "讨论发表会"
+    ],
+    "traverse": [
+        "横越"
+    ],
+    "transaction": [
+        "交易",
+        "处理"
+    ],
+    "simultaneous": [
+        "同时存在的"
+    ],
+    "战略上的": [
+        "strategic"
+    ],
+    "牵引": [
+        "tow"
+    ],
+    "transit": [
+        "中转的",
+        "运输（线）"
+    ],
+    "流线型": [
+        "streamline"
+    ],
+    "speculate": [
+        "思索"
+    ],
+    "smash": [
+        "粉碎"
+    ],
+    "sentiment": [
+        "情绪"
+    ],
+    "subordinate": [
+        "辅助的"
+    ],
+    "spatial": [
+        "占据空间的"
+    ],
+    "spectrum": [
+        "范围"
+    ],
+    "策略": [
+        "tactics"
+    ],
+    "发言人，代言人": [
+        "spokesman"
+    ],
+    "差别": [
+        "distinction"
+    ],
+    "snap": [
+        "突然折断"
+    ],
+    "锦标赛": [
+        "tournament"
+    ],
+    "组成部分": [
+        "component"
+    ],
+    "seemingly": [
+        "外表上"
+    ],
+    "召唤": [
+        "summon"
+    ],
+    "spacious": [
+        "广大的"
+    ],
+    "模仿，假装": [
+        "simulate"
+    ],
+    "碎片，废料": [
+        "scrap"
+    ],
+    "气质，性情": [
+        "temperament"
+    ],
+    "打滚": [
+        "tumble"
+    ],
+    "投诉": [
+        "complain"
+    ],
+    "concentration": [
+        "专心"
+    ],
+    "配偶": [
+        "spouse"
+    ],
+    "symphony": [
+        "交响乐团"
+    ],
+    "用力拖": [
+        "tug"
+    ],
+    "specifically": [
+        "具体地"
+    ],
+    "striking": [
+        "惊人的"
     ]
 }
